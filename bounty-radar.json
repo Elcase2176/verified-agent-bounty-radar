@@ -1,0 +1,136 @@
+{
+  "generated_at": "2026-08-13T17:42:43.566670+00:00",
+  "maximum_competitors": 2,
+  "minimum_usd": 1.0,
+  "preliminary_candidates": [],
+  "sources": {
+    "algora": {
+      "archived": 1,
+      "closed": 14,
+      "crowded": 31,
+      "live_open": 0,
+      "lookup_errors": 10,
+      "ok": true,
+      "organizations": 16,
+      "page_errors": {},
+      "preliminary": 0,
+      "rows": 63,
+      "under_minimum": 0,
+      "unique_issues": 56
+    },
+    "bountyhub": {
+      "listed": 10,
+      "ok": true,
+      "preliminary": 0
+    },
+    "codebounty_base": {
+      "listed": 0,
+      "ok": true,
+      "unclaimed": 0
+    },
+    "codebounty_mainnet": {
+      "listed": 0,
+      "ok": true,
+      "unclaimed": 0
+    },
+    "execution_market": {
+      "available": 20,
+      "fee_percent": 13,
+      "max_gross_usd": 0.02,
+      "ok": true,
+      "preliminary": 0
+    },
+    "gitwork": {
+      "active": 1,
+      "ok": true,
+      "preliminary": 0
+    },
+    "gitwork_stats": {
+      "active_count": 1,
+      "claimed_count": 29,
+      "ok": true,
+      "total_bounties": 46,
+      "total_sol_paid": 0.005,
+      "total_usdc_paid": 377
+    },
+    "issuehunt": {
+      "funded_open_low_competition": 564,
+      "listed": 756,
+      "ok": true,
+      "open": 593,
+      "pages": 42,
+      "small_task_preliminary": 0
+    },
+    "moltjobs": {
+      "escrow_tx_present": 0,
+      "future_deadline": 0,
+      "ok": true,
+      "open_status": 3,
+      "preliminary": 0
+    },
+    "moltjobs_stats": {
+      "avgCompletionTimeMs": 6967279667,
+      "disputeRate": 0,
+      "ok": true,
+      "totalAgents": 128,
+      "totalCompleted": 2,
+      "totalJobs": 17,
+      "totalVolumeUsdc": 123.5
+    },
+    "opire": {
+      "amount_bands_usd": [
+        [
+          5,
+          50
+        ],
+        [
+          50,
+          100
+        ],
+        [
+          100,
+          500
+        ],
+        [
+          500,
+          5000
+        ]
+      ],
+      "funding_status": "not_prefunded_or_escrowed",
+      "listed_unclaimed_in_bands": 4,
+      "ok": true,
+      "preliminary": 0,
+      "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
+    },
+    "payanagent": {
+      "escrowed": 4,
+      "max_escrowed_usd": 0.05,
+      "ok": true,
+      "open": 8,
+      "preliminary": 0
+    },
+    "superteam": {
+      "current": 0,
+      "listed": 9,
+      "ok": true
+    },
+    "tari": {
+      "listed": 50,
+      "ok": true,
+      "open": 0,
+      "pr_open": 3,
+      "preliminary": 0,
+      "xtm_usd": 0.000343
+    },
+    "taskbounty": {
+      "active": 0,
+      "ok": true
+    },
+    "taskmarket": {
+      "active": 6,
+      "ok": true,
+      "preliminary": 0
+    }
+  },
+  "target_total_usd": 5.0
+}
