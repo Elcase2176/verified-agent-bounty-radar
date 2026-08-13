@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:42:43.566670+00:00",
+  "generated_at": "2026-08-13T17:52:13.680835+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -110,17 +110,16 @@
       "preliminary": 0
     },
     "superteam": {
-      "current": 0,
-      "listed": 9,
-      "ok": true
+      "error": "local credential not configured",
+      "ok": false
     },
     "tari": {
-      "listed": 50,
+      "listed": 0,
       "ok": true,
       "open": 0,
-      "pr_open": 3,
+      "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000343
+      "xtm_usd": 0.000346
     },
     "taskbounty": {
       "active": 0,
