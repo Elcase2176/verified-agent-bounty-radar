@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:02:43.770483+00:00",
+  "generated_at": "2026-08-14T14:02:59.125010+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -112,8 +112,29 @@
       "totalVolumeUsdc": 123.5
     },
     "opire": {
-      "error": "The read operation timed out",
-      "ok": false
+      "amount_bands_usd": [
+        [
+          5,
+          50
+        ],
+        [
+          50,
+          100
+        ],
+        [
+          100,
+          500
+        ],
+        [
+          500,
+          5000
+        ]
+      ],
+      "funding_status": "not_prefunded_or_escrowed",
+      "listed_unclaimed_in_bands": 4,
+      "ok": true,
+      "preliminary": 0,
+      "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
     },
     "payanagent": {
       "escrowed": 4,
