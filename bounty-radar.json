@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-08-13T19:44:29.194907+00:00",
+  "generated_at": "2026-08-14T03:12:17.276829+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 0,
+      "escrow_tx": "0x008207914af3a13a765974c108fc92e5b24fb9fc40f97c4f0ab667425e370e1c",
+      "expires_at": "2026-08-21T02:38:21.801Z",
+      "id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+      "needs_manual_scope_review": true,
+      "net_usd": 59.2,
+      "source": "Taskmarket",
+      "title": "The World of Base, 2030 — make a living world in six seconds"
+    },
+    {
+      "deadline": "2026-08-16T02:18:01.451263+00:00",
+      "funding_status": "escrow locks only after publisher assigns worker",
+      "gross_usd": 3.0,
+      "id": "200ee6f4-54f2-4c72-acba-996618853807",
+      "needs_manual_scope_review": true,
+      "net_usd": 2.61,
+      "payment_network": "base",
+      "source": "Execution Market",
+      "title": "Test-drive 01Mind's free Tool Generation Engine tier and report real integration friction"
+    },
+    {
+      "deadline": "2026-08-16T02:16:26.727274+00:00",
+      "funding_status": "escrow locks only after publisher assigns worker",
+      "gross_usd": 3.0,
+      "id": "6ed541b5-54a7-4637-9943-faec8a8dc78c",
+      "needs_manual_scope_review": true,
+      "net_usd": 2.61,
+      "payment_network": "base",
+      "source": "Execution Market",
+      "title": "Evaluate 01Mind's Agentic.Market listing for pricing/metadata clarity"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 1,
@@ -36,9 +69,9 @@
     "execution_market": {
       "available": 20,
       "fee_percent": 13,
-      "max_gross_usd": 0.02,
+      "max_gross_usd": 3.0,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 2
     },
     "gitwork": {
       "active": 1,
@@ -72,7 +105,7 @@
       "avgCompletionTimeMs": 6967279667,
       "disputeRate": 0,
       "ok": true,
-      "totalAgents": 128,
+      "totalAgents": 130,
       "totalCompleted": 2,
       "totalJobs": 17,
       "totalVolumeUsdc": 123.5
@@ -119,16 +152,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000342
+      "xtm_usd": 0.00033
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 5,
+      "active": 7,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 1
     }
   },
   "target_total_usd": 5.0
