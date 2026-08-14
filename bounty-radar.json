@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-08-14T03:12:17.276829+00:00",
+  "generated_at": "2026-08-14T08:02:43.770483+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
     {
-      "competitors": 0,
-      "escrow_tx": "0x008207914af3a13a765974c108fc92e5b24fb9fc40f97c4f0ab667425e370e1c",
-      "expires_at": "2026-08-21T02:38:21.801Z",
-      "id": "0xb4e0e2150a5b69a781769fe71f9092de3cffe978a03fd7286ebd408b99b152e3",
+      "deadline": "2026-08-17T04:53:39.916834+00:00",
+      "funding_status": "escrow locks only after publisher assigns worker",
+      "gross_usd": 8.0,
+      "id": "fe853165-0e22-46ee-8a2f-f1193c765459",
       "needs_manual_scope_review": true,
-      "net_usd": 59.2,
-      "source": "Taskmarket",
-      "title": "The World of Base, 2030 — make a living world in six seconds"
+      "net_usd": 6.96,
+      "payment_network": "base",
+      "source": "Execution Market",
+      "title": "Benchmark 01Mind vs. two competitor agent-tool listings on price-to-capability ratio"
     },
     {
       "deadline": "2026-08-16T02:18:01.451263+00:00",
@@ -69,9 +70,9 @@
     "execution_market": {
       "available": 20,
       "fee_percent": 13,
-      "max_gross_usd": 3.0,
+      "max_gross_usd": 8.0,
       "ok": true,
-      "preliminary": 2
+      "preliminary": 3
     },
     "gitwork": {
       "active": 1,
@@ -111,29 +112,8 @@
       "totalVolumeUsdc": 123.5
     },
     "opire": {
-      "amount_bands_usd": [
-        [
-          5,
-          50
-        ],
-        [
-          50,
-          100
-        ],
-        [
-          100,
-          500
-        ],
-        [
-          500,
-          5000
-        ]
-      ],
-      "funding_status": "not_prefunded_or_escrowed",
-      "listed_unclaimed_in_bands": 4,
-      "ok": true,
-      "preliminary": 0,
-      "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
+      "error": "The read operation timed out",
+      "ok": false
     },
     "payanagent": {
       "escrowed": 4,
@@ -152,7 +132,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.00033
+      "xtm_usd": 0.000329
     },
     "taskbounty": {
       "active": 0,
@@ -161,7 +141,7 @@
     "taskmarket": {
       "active": 7,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 0
     }
   },
   "target_total_usd": 5.0
