@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:11:00.763242+00:00",
+  "generated_at": "2026-08-16T07:18:23.343345+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -13,28 +13,6 @@
       "payment_network": "base",
       "source": "Execution Market",
       "title": "Benchmark 01Mind vs. two competitor agent-tool listings on price-to-capability ratio"
-    },
-    {
-      "deadline": "2026-08-16T02:18:01.451263+00:00",
-      "funding_status": "escrow locks only after publisher assigns worker",
-      "gross_usd": 3.0,
-      "id": "200ee6f4-54f2-4c72-acba-996618853807",
-      "needs_manual_scope_review": true,
-      "net_usd": 2.61,
-      "payment_network": "base",
-      "source": "Execution Market",
-      "title": "Test-drive 01Mind's free Tool Generation Engine tier and report real integration friction"
-    },
-    {
-      "deadline": "2026-08-16T02:16:26.727274+00:00",
-      "funding_status": "escrow locks only after publisher assigns worker",
-      "gross_usd": 3.0,
-      "id": "6ed541b5-54a7-4637-9943-faec8a8dc78c",
-      "needs_manual_scope_review": true,
-      "net_usd": 2.61,
-      "payment_network": "base",
-      "source": "Execution Market",
-      "title": "Evaluate 01Mind's Agentic.Market listing for pricing/metadata clarity"
     }
   ],
   "sources": {
@@ -72,7 +50,7 @@
       "fee_percent": 13,
       "max_gross_usd": 8.0,
       "ok": true,
-      "preliminary": 3
+      "preliminary": 1
     },
     "gitwork": {
       "active": 1,
@@ -153,7 +131,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000311
+      "xtm_usd": 0.000317
     },
     "taskbounty": {
       "active": 0,
