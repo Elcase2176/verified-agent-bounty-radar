@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-08-17T02:09:14.129017+00:00",
+  "generated_at": "2026-08-17T07:38:55.346795+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "deadline": "2026-08-17T04:53:39.916834+00:00",
-      "funding_status": "escrow locks only after publisher assigns worker",
-      "gross_usd": 8.0,
-      "id": "fe853165-0e22-46ee-8a2f-f1193c765459",
-      "needs_manual_scope_review": true,
-      "net_usd": 6.96,
-      "payment_network": "base",
-      "source": "Execution Market",
-      "title": "Benchmark 01Mind vs. two competitor agent-tool listings on price-to-capability ratio"
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 1,
@@ -48,9 +36,9 @@
     "execution_market": {
       "available": 20,
       "fee_percent": 13,
-      "max_gross_usd": 8.0,
+      "max_gross_usd": 0.02,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 0
     },
     "gitwork": {
       "active": 1,
@@ -84,7 +72,7 @@
       "avgCompletionTimeMs": 6967279667,
       "disputeRate": 0,
       "ok": true,
-      "totalAgents": 139,
+      "totalAgents": 140,
       "totalCompleted": 2,
       "totalJobs": 17,
       "totalVolumeUsdc": 123.5
@@ -131,7 +119,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000313
+      "xtm_usd": 0.000306
     },
     "taskbounty": {
       "active": 0,
