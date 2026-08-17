@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:38:55.346795+00:00",
+  "generated_at": "2026-08-17T13:26:41.186514+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -54,10 +54,10 @@
       "total_usdc_paid": 377
     },
     "issuehunt": {
-      "funded_open_low_competition": 564,
+      "funded_open_low_competition": 565,
       "listed": 756,
       "ok": true,
-      "open": 593,
+      "open": 594,
       "pages": 42,
       "small_task_preliminary": 0
     },
@@ -72,7 +72,7 @@
       "avgCompletionTimeMs": 6967279667,
       "disputeRate": 0,
       "ok": true,
-      "totalAgents": 140,
+      "totalAgents": 141,
       "totalCompleted": 2,
       "totalJobs": 17,
       "totalVolumeUsdc": 123.5
@@ -119,7 +119,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000306
+      "xtm_usd": 0.000314
     },
     "taskbounty": {
       "active": 0,
