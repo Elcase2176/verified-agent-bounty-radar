@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:31:02.515398+00:00",
+  "generated_at": "2026-08-19T19:09:47.633628+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -41,17 +41,12 @@
       "preliminary": 0
     },
     "gitwork": {
-      "active": 1,
-      "ok": true,
-      "preliminary": 0
+      "error": "<urlopen error timed out>",
+      "ok": false
     },
     "gitwork_stats": {
-      "active_count": 1,
-      "claimed_count": 29,
-      "ok": true,
-      "total_bounties": 46,
-      "total_sol_paid": 0.005,
-      "total_usdc_paid": 377
+      "error": "<urlopen error timed out>",
+      "ok": false
     },
     "issuehunt": {
       "funded_open_low_competition": 564,
@@ -119,7 +114,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000337
+      "xtm_usd": 0.000343
     },
     "taskbounty": {
       "active": 0,
