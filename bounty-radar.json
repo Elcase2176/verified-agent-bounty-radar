@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:25:11.041574+00:00",
+  "generated_at": "2026-08-19T13:31:02.515398+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -72,7 +72,7 @@
       "avgCompletionTimeMs": 6967279667,
       "disputeRate": 0,
       "ok": true,
-      "totalAgents": 151,
+      "totalAgents": 152,
       "totalCompleted": 2,
       "totalJobs": 17,
       "totalVolumeUsdc": 123.5
@@ -126,7 +126,7 @@
       "ok": true
     },
     "taskmarket": {
-      "active": 20,
+      "active": 19,
       "ok": true,
       "preliminary": 0
     }
