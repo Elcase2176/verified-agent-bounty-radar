@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-20T07:27:46.501064+00:00",
+  "generated_at": "2026-08-20T13:33:13.935152+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
   "sources": {
     "algora": {
-      "archived": 0,
+      "archived": 1,
       "closed": 14,
-      "crowded": 30,
+      "crowded": 31,
       "live_open": 0,
-      "lookup_errors": 12,
+      "lookup_errors": 10,
       "ok": true,
       "organizations": 16,
       "page_errors": {},
@@ -114,7 +114,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000355
+      "xtm_usd": 0.000357
     },
     "taskbounty": {
       "active": 0,
