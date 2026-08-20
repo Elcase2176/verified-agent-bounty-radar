@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T13:33:13.935152+00:00",
+  "generated_at": "2026-08-20T19:18:55.863598+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -34,7 +34,7 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 8,
+      "available": 3,
       "fee_percent": 13,
       "max_gross_usd": 0.02,
       "ok": true,
@@ -114,7 +114,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000357
+      "xtm_usd": 0.000338
     },
     "taskbounty": {
       "active": 0,
