@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T02:12:53.102928+00:00",
+  "generated_at": "2026-08-21T07:29:10.794115+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -114,14 +114,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000353
+      "xtm_usd": 0.000351
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 8,
+      "active": 7,
       "ok": true,
       "preliminary": 0
     }
