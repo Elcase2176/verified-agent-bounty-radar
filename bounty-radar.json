@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:18:50.353803+00:00",
+  "generated_at": "2026-08-22T13:19:14.989268+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -67,7 +67,7 @@
       "avgCompletionTimeMs": 6967279667,
       "disputeRate": 0,
       "ok": true,
-      "totalAgents": 158,
+      "totalAgents": 160,
       "totalCompleted": 2,
       "totalJobs": 17,
       "totalVolumeUsdc": 123.5
@@ -114,7 +114,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000358
+      "xtm_usd": 0.00039
     },
     "taskbounty": {
       "active": 0,
