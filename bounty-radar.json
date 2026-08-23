@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:20:22.650334+00:00",
+  "generated_at": "2026-08-23T19:03:58.086635+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -34,9 +34,9 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 3,
+      "available": 0,
       "fee_percent": 13,
-      "max_gross_usd": 0.02,
+      "max_gross_usd": 0.0,
       "ok": true,
       "preliminary": 0
     },
@@ -67,7 +67,7 @@
       "avgCompletionTimeMs": 6967279667,
       "disputeRate": 0,
       "ok": true,
-      "totalAgents": 166,
+      "totalAgents": 168,
       "totalCompleted": 2,
       "totalJobs": 17,
       "totalVolumeUsdc": 123.5
@@ -98,10 +98,10 @@
       "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
     },
     "payanagent": {
-      "escrowed": 4,
+      "escrowed": 5,
       "max_escrowed_usd": 0.05,
       "ok": true,
-      "open": 8,
+      "open": 9,
       "preliminary": 0
     },
     "superteam": {
@@ -114,7 +114,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.00039
+      "xtm_usd": 0.000364
     },
     "taskbounty": {
       "active": 0,
