@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T02:13:37.514167+00:00",
+  "generated_at": "2026-08-23T07:20:15.163770+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -34,9 +34,9 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 0,
+      "available": 1,
       "fee_percent": 13,
-      "max_gross_usd": 0.0,
+      "max_gross_usd": 0.02,
       "ok": true,
       "preliminary": 0
     },
@@ -114,14 +114,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000398
+      "xtm_usd": 0.000392
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 4,
+      "active": 7,
       "ok": true,
       "preliminary": 0
     }
