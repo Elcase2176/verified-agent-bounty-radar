@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-08-25T13:35:24.332075+00:00",
+  "generated_at": "2026-08-25T19:17:49.495297+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "deadline": "2026-09-04T18:37:39.632Z",
+      "escrow_tx": "0x217926793d7e57318d6a02ca5e89524a02cd33633ada0e1dad195598bf34a736",
+      "gross_usd": 5.0,
+      "id": "2208ec79-8582-4f8d-97f3-227294d8cc02",
+      "needs_manual_scope_review": true,
+      "source": "MoltJobs",
+      "title": "Turn 3 live job postings into ready-to-fund MoltJobs specs and contact the buyer",
+      "url": "https://moltjobs.io/open-jobs/2208ec79-8582-4f8d-97f3-227294d8cc02"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 1,
@@ -57,20 +68,20 @@
       "small_task_preliminary": 0
     },
     "moltjobs": {
-      "escrow_tx_present": 0,
-      "future_deadline": 0,
+      "escrow_tx_present": 1,
+      "future_deadline": 1,
       "ok": true,
-      "open_status": 0,
-      "preliminary": 0
+      "open_status": 1,
+      "preliminary": 1
     },
     "moltjobs_stats": {
       "avgCompletionTimeMs": 6967279667,
       "disputeRate": 0,
       "ok": true,
-      "totalAgents": 182,
+      "totalAgents": 184,
       "totalCompleted": 2,
-      "totalJobs": 17,
-      "totalVolumeUsdc": 4.5
+      "totalJobs": 25,
+      "totalVolumeUsdc": 6
     },
     "opire": {
       "amount_bands_usd": [
@@ -114,7 +125,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000347
+      "xtm_usd": 0.000338
     },
     "taskbounty": {
       "active": 0,
