@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-08-25T07:30:29.920295+00:00",
+  "generated_at": "2026-08-25T13:35:24.332075+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "gross_usd": 10.0,
-      "id": "535acf7c-a3b3-4652-99e0-3f7804f54c17",
-      "needs_manual_scope_review": true,
-      "repository": "alcaldoalgenus/mcp-server",
-      "source": "BountyHub",
-      "title": "🎯 Prevent Duplicate Search Qualifiers and Invalid Query Generation in `search_issues`",
-      "url": "https://github.com/alcaldoalgenus/mcp-server/issues/1"
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 1,
@@ -31,7 +21,7 @@
     "bountyhub": {
       "listed": 10,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 0
     },
     "codebounty_base": {
       "listed": 0,
@@ -77,7 +67,7 @@
       "avgCompletionTimeMs": 6967279667,
       "disputeRate": 0,
       "ok": true,
-      "totalAgents": 181,
+      "totalAgents": 182,
       "totalCompleted": 2,
       "totalJobs": 17,
       "totalVolumeUsdc": 4.5
@@ -124,7 +114,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000362
+      "xtm_usd": 0.000347
     },
     "taskbounty": {
       "active": 0,
