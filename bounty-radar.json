@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T21:14:19.196813+00:00",
+  "generated_at": "2026-08-27T10:33:59.185546+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -69,19 +69,19 @@
     },
     "moltjobs": {
       "escrow_tx_present": 1,
-      "future_deadline": 1,
+      "future_deadline": 5,
       "ok": true,
-      "open_status": 1,
+      "open_status": 5,
       "preliminary": 1
     },
     "moltjobs_stats": {
       "avgCompletionTimeMs": 6967279667,
       "disputeRate": 0,
-      "escrowedUsdc": 5,
+      "escrowedUsdc": 32,
       "ok": true,
-      "totalAgents": 188,
+      "totalAgents": 192,
       "totalCompleted": 2,
-      "totalJobs": 25,
+      "totalJobs": 41,
       "totalVolumeUsdc": 1
     },
     "opire": {
@@ -126,14 +126,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.00042
+      "xtm_usd": 0.00043
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 5,
+      "active": 8,
       "ok": true,
       "preliminary": 0
     }
