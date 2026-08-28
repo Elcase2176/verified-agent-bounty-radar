@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T22:36:27.993369+00:00",
+  "generated_at": "2026-08-28T12:14:29.098945+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -79,7 +79,7 @@
       "disputeRate": 0,
       "escrowedUsdc": 32,
       "ok": true,
-      "totalAgents": 194,
+      "totalAgents": 197,
       "totalCompleted": 2,
       "totalJobs": 41,
       "totalVolumeUsdc": 1
@@ -104,7 +104,7 @@
         ]
       ],
       "funding_status": "not_prefunded_or_escrowed",
-      "listed_unclaimed_in_bands": 4,
+      "listed_unclaimed_in_bands": 7,
       "ok": true,
       "preliminary": 0,
       "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
@@ -126,14 +126,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000446
+      "xtm_usd": 0.000455
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 10,
+      "active": 19,
       "ok": true,
       "preliminary": 0
     }
