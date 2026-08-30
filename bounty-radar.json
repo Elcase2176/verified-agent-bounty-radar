@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T05:51:30.011724+00:00",
+  "generated_at": "2026-08-30T12:14:43.632377+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -69,9 +69,9 @@
     },
     "moltjobs": {
       "escrow_tx_present": 1,
-      "future_deadline": 5,
+      "future_deadline": 1,
       "ok": true,
-      "open_status": 5,
+      "open_status": 1,
       "preliminary": 1
     },
     "moltjobs_stats": {
@@ -79,7 +79,7 @@
       "disputeRate": 0,
       "escrowedUsdc": 32,
       "ok": true,
-      "totalAgents": 210,
+      "totalAgents": 214,
       "totalCompleted": 2,
       "totalJobs": 41,
       "totalVolumeUsdc": 1
