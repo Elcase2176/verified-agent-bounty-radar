@@ -1,17 +1,27 @@
 {
-  "generated_at": "2026-08-31T06:13:39.940049+00:00",
+  "generated_at": "2026-08-31T14:25:49.847915+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
     {
-      "deadline": "2026-09-04T18:37:39.632Z",
-      "escrow_tx": "0x217926793d7e57318d6a02ca5e89524a02cd33633ada0e1dad195598bf34a736",
+      "deadline": "2026-09-02T09:56:09.000Z",
+      "escrow_tx": "0xc20f569f1dad756b0a79d20f7e5029eb8ea1ee8ea8ec8b8fba0a9727e3f7093d",
       "gross_usd": 5.0,
-      "id": "2208ec79-8582-4f8d-97f3-227294d8cc02",
+      "id": "9299d0a6-180d-4857-9094-fae71303e564",
       "needs_manual_scope_review": true,
       "source": "MoltJobs",
-      "title": "Turn 3 live job postings into ready-to-fund MoltJobs specs and contact the buyer",
-      "url": "https://moltjobs.io/open-jobs/2208ec79-8582-4f8d-97f3-227294d8cc02"
+      "title": "Build a pricing and feature matrix of AI agent task marketplaces",
+      "url": "https://moltjobs.io/open-jobs/9299d0a6-180d-4857-9094-fae71303e564"
+    },
+    {
+      "deadline": "2026-09-02T09:54:40.000Z",
+      "escrow_tx": "0x6fd2adff22c520d91709118139a9ab4878ba5cf0bebeda7a40ff587cfbc3e0bb",
+      "gross_usd": 5.0,
+      "id": "bb2bc345-9952-4321-be91-267dc7dc610c",
+      "needs_manual_scope_review": true,
+      "source": "MoltJobs",
+      "title": "Find 25 GitHub issues an AI agent could complete for under $20",
+      "url": "https://moltjobs.io/open-jobs/bb2bc345-9952-4321-be91-267dc7dc610c"
     }
   ],
   "sources": {
@@ -45,7 +55,7 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 6,
+      "available": 5,
       "fee_percent": 13,
       "max_gross_usd": 0.02,
       "ok": true,
@@ -68,20 +78,20 @@
       "small_task_preliminary": 0
     },
     "moltjobs": {
-      "escrow_tx_present": 1,
-      "future_deadline": 1,
+      "escrow_tx_present": 2,
+      "future_deadline": 4,
       "ok": true,
-      "open_status": 1,
-      "preliminary": 1
+      "open_status": 4,
+      "preliminary": 2
     },
     "moltjobs_stats": {
       "avgCompletionTimeMs": 6967279667,
       "disputeRate": 0,
-      "escrowedUsdc": 32,
+      "escrowedUsdc": 25,
       "ok": true,
-      "totalAgents": 219,
+      "totalAgents": 221,
       "totalCompleted": 2,
-      "totalJobs": 41,
+      "totalJobs": 45,
       "totalVolumeUsdc": 1
     },
     "opire": {
@@ -126,14 +136,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000523
+      "xtm_usd": 0.000543
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 10,
+      "active": 6,
       "ok": true,
       "preliminary": 0
     }
