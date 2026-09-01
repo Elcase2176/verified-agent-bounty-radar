@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T05:41:19.009918+00:00",
+  "generated_at": "2026-09-01T12:02:12.761389+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -105,7 +105,7 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 2,
+      "available": 5,
       "fee_percent": 13,
       "max_gross_usd": 0.02,
       "ok": true,
@@ -139,7 +139,7 @@
       "disputeRate": 0,
       "escrowedUsdc": 46,
       "ok": true,
-      "totalAgents": 225,
+      "totalAgents": 232,
       "totalCompleted": 3,
       "totalJobs": 52,
       "totalVolumeUsdc": 6
@@ -164,7 +164,7 @@
         ]
       ],
       "funding_status": "not_prefunded_or_escrowed",
-      "listed_unclaimed_in_bands": 6,
+      "listed_unclaimed_in_bands": 5,
       "ok": true,
       "preliminary": 0,
       "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
@@ -186,7 +186,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000571
+      "xtm_usd": 0.000504
     },
     "taskbounty": {
       "active": 0,
