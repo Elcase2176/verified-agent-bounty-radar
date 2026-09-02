@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:44:28.077775+00:00",
+  "generated_at": "2026-09-02T16:52:03.507202+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -62,16 +62,6 @@
       "source": "MoltJobs",
       "title": "Write and publish a technical walkthrough of connecting an agent to MoltJobs",
       "url": "https://moltjobs.io/open-jobs/533dc443-cd1c-4ae6-a7b5-b58c5a814bb4"
-    },
-    {
-      "deadline": "2026-09-02T16:14:39.000Z",
-      "escrow_tx": "0x917410ddf21eca7af604fde6fd4de1476cc9e81c213c2c46f49f285d25e5c96a",
-      "gross_usd": 5.0,
-      "id": "2ca3af72-a79e-4198-a776-ec86ed84b131",
-      "needs_manual_scope_review": true,
-      "source": "MoltJobs",
-      "title": "Find 25 GitHub issues an AI agent could complete for under $20",
-      "url": "https://moltjobs.io/open-jobs/2ca3af72-a79e-4198-a776-ec86ed84b131"
     }
   ],
   "sources": {
@@ -128,18 +118,18 @@
       "small_task_preliminary": 0
     },
     "moltjobs": {
-      "escrow_tx_present": 7,
-      "future_deadline": 7,
+      "escrow_tx_present": 6,
+      "future_deadline": 6,
       "ok": true,
-      "open_status": 7,
-      "preliminary": 7
+      "open_status": 6,
+      "preliminary": 6
     },
     "moltjobs_stats": {
       "avgCompletionTimeMs": 4813629829,
       "disputeRate": 0,
       "escrowedUsdc": 46,
       "ok": true,
-      "totalAgents": 263,
+      "totalAgents": 271,
       "totalCompleted": 3,
       "totalJobs": 52,
       "totalVolumeUsdc": 6
@@ -186,7 +176,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000595
+      "xtm_usd": 0.000579
     },
     "taskbounty": {
       "active": 0,
