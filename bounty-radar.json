@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:20:48.015403+00:00",
+  "generated_at": "2026-09-02T05:05:39.383930+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -77,10 +77,10 @@
   "sources": {
     "algora": {
       "archived": 1,
-      "closed": 13,
+      "closed": 14,
       "crowded": 31,
       "live_open": 0,
-      "lookup_errors": 11,
+      "lookup_errors": 10,
       "ok": true,
       "organizations": 16,
       "page_errors": {},
@@ -105,9 +105,9 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 3,
+      "available": 2,
       "fee_percent": 13,
-      "max_gross_usd": 0.02,
+      "max_gross_usd": 0.03,
       "ok": true,
       "preliminary": 0
     },
@@ -139,7 +139,7 @@
       "disputeRate": 0,
       "escrowedUsdc": 46,
       "ok": true,
-      "totalAgents": 244,
+      "totalAgents": 254,
       "totalCompleted": 3,
       "totalJobs": 52,
       "totalVolumeUsdc": 6
@@ -186,14 +186,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0005
+      "xtm_usd": 0.000578
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 6,
+      "active": 4,
       "ok": true,
       "preliminary": 0
     }
