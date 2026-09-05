@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:02:54.881870+00:00",
+  "generated_at": "2026-09-05T04:56:32.500889+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -64,14 +64,14 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "avgCompletionTimeMs": 3676771759,
+      "avgCompletionTimeMs": 2028695605,
       "disputeRate": 0,
-      "escrowedUsdc": 40,
+      "escrowedUsdc": 0,
       "ok": true,
-      "totalAgents": 294,
-      "totalCompleted": 4,
+      "totalAgents": 296,
+      "totalCompleted": 8,
       "totalJobs": 52,
-      "totalVolumeUsdc": 12
+      "totalVolumeUsdc": 32
     },
     "opire": {
       "error": "HTTP Error 502: Bad Gateway",
@@ -94,14 +94,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000843
+      "xtm_usd": 0.0008319
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 6,
+      "active": 5,
       "ok": true,
       "preliminary": 0
     }
