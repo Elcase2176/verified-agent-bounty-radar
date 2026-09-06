@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:21:33.542538+00:00",
+  "generated_at": "2026-09-06T15:48:15.376778+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -41,11 +41,11 @@
       "preliminary": 0
     },
     "gitwork": {
-      "error": "<urlopen error timed out>",
+      "error": "HTTP Error 404: Not Found",
       "ok": false
     },
     "gitwork_stats": {
-      "error": "<urlopen error timed out>",
+      "error": "HTTP Error 404: Not Found",
       "ok": false
     },
     "issuehunt": {
@@ -68,7 +68,7 @@
       "disputeRate": 0,
       "escrowedUsdc": 0,
       "ok": true,
-      "totalAgents": 300,
+      "totalAgents": 304,
       "totalCompleted": 8,
       "totalJobs": 52,
       "totalVolumeUsdc": 32
@@ -91,7 +91,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0008072
+      "xtm_usd": 0.0008347
     },
     "taskbounty": {
       "active": 0,
