@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:43:21.502328+00:00",
+  "generated_at": "2026-09-06T05:06:35.714962+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -81,7 +81,7 @@
       "escrowed": 5,
       "max_escrowed_usd": 0.05,
       "ok": true,
-      "open": 10,
+      "open": 11,
       "preliminary": 0
     },
     "superteam": {
@@ -94,7 +94,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000788
+      "xtm_usd": 0.0008158
     },
     "taskbounty": {
       "active": 0,
