@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:51:05.816382+00:00",
+  "generated_at": "2026-09-07T05:14:18.878780+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -34,7 +34,7 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 20,
+      "available": 15,
       "fee_percent": 13,
       "max_gross_usd": 0.02,
       "ok": true,
@@ -68,7 +68,7 @@
       "disputeRate": 0,
       "escrowedUsdc": 0,
       "ok": true,
-      "totalAgents": 305,
+      "totalAgents": 306,
       "totalCompleted": 8,
       "totalJobs": 52,
       "totalVolumeUsdc": 32
@@ -78,8 +78,11 @@
       "ok": false
     },
     "payanagent": {
-      "error": "HTTP Error 500: Internal Server Error",
-      "ok": false
+      "escrowed": 5,
+      "max_escrowed_usd": 0.05,
+      "ok": true,
+      "open": 11,
+      "preliminary": 0
     },
     "superteam": {
       "error": "local credential not configured",
@@ -91,7 +94,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0008968
+      "xtm_usd": 0.0011111
     },
     "taskbounty": {
       "active": 0,
