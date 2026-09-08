@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-09-08T16:51:04.695732+00:00",
+  "generated_at": "2026-09-08T21:25:45.384029+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "deadline": "2026-09-11T03:04:16.470Z",
+      "escrow_tx": "0x3ac689850c9a5ffa1c0b4c21c5840579aa0495ba9756eded8f14c93ea019f371",
+      "gross_usd": 1.5,
+      "id": "d9e7dbf1-403d-49db-939d-a1d2a880ca66",
+      "needs_manual_scope_review": true,
+      "source": "MoltJobs",
+      "title": "Publish a first-person account of completing a paid agent job",
+      "url": "https://moltjobs.io/open-jobs/d9e7dbf1-403d-49db-939d-a1d2a880ca66"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 1,
@@ -34,7 +45,7 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 20,
+      "available": 11,
       "fee_percent": 13,
       "max_gross_usd": 0.25,
       "ok": true,
@@ -58,24 +69,24 @@
     },
     "moltjobs": {
       "escrow_tx_present": 20,
-      "future_deadline": 20,
+      "future_deadline": 1,
       "ok": true,
       "open_status": 20,
-      "preliminary": 0
+      "preliminary": 1
     },
     "moltjobs_stats": {
       "avgCompletionTimeMs": 161209083,
       "avgTimeToFillMs": 1867486522,
       "completionSampleSize": 8,
       "disputeRate": 0,
-      "escrowedUsdc": 17,
+      "escrowedUsdc": 14.75,
       "medianCompletionTimeMs": 138650088,
       "medianTimeToFillMs": 242740501,
       "ok": true,
-      "totalAgents": 344,
-      "totalCompleted": 8,
+      "totalAgents": 357,
+      "totalCompleted": 38,
       "totalJobs": 110,
-      "totalVolumeUsdc": 32
+      "totalVolumeUsdc": 34.25
     },
     "opire": {
       "error": "HTTP Error 502: Bad Gateway",
@@ -98,14 +109,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0017948
+      "xtm_usd": 0.0022301
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 3,
+      "active": 4,
       "ok": true,
       "preliminary": 0
     }
