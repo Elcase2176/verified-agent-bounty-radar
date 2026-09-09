@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T05:18:33.479385+00:00",
+  "generated_at": "2026-09-09T11:52:55.173286+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -115,7 +115,7 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 6,
+      "available": 9,
       "fee_percent": 13,
       "max_gross_usd": 0.25,
       "ok": true,
@@ -153,14 +153,35 @@
       "medianCompletionTimeMs": 138650088,
       "medianTimeToFillMs": 242740501,
       "ok": true,
-      "totalAgents": 384,
+      "totalAgents": 391,
       "totalCompleted": 48,
       "totalJobs": 110,
       "totalVolumeUsdc": 35
     },
     "opire": {
-      "error": "HTTP Error 502: Bad Gateway",
-      "ok": false
+      "amount_bands_usd": [
+        [
+          5,
+          50
+        ],
+        [
+          50,
+          100
+        ],
+        [
+          100,
+          500
+        ],
+        [
+          500,
+          5000
+        ]
+      ],
+      "funding_status": "not_prefunded_or_escrowed",
+      "listed_unclaimed_in_bands": 4,
+      "ok": true,
+      "preliminary": 0,
+      "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
     },
     "payanagent": {
       "escrowed": 5,
@@ -179,14 +200,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0019419
+      "xtm_usd": 0.0016703
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 8,
+      "active": 11,
       "ok": true,
       "preliminary": 0
     }
