@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:53:51.528394+00:00",
+  "generated_at": "2026-09-09T21:13:04.701927+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -130,7 +130,7 @@
       "ok": false
     },
     "issuehunt": {
-      "funded_open_low_competition": 561,
+      "funded_open_low_competition": 558,
       "listed": 754,
       "ok": true,
       "open": 591,
@@ -153,7 +153,7 @@
       "medianCompletionTimeMs": 138650088,
       "medianTimeToFillMs": 242740501,
       "ok": true,
-      "totalAgents": 401,
+      "totalAgents": 410,
       "totalCompleted": 48,
       "totalJobs": 110,
       "totalVolumeUsdc": 35
@@ -184,10 +184,10 @@
       "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
     },
     "payanagent": {
-      "escrowed": 5,
-      "max_escrowed_usd": 0.05,
+      "escrowed": 0,
+      "max_escrowed_usd": 0.0,
       "ok": true,
-      "open": 12,
+      "open": 50,
       "preliminary": 0
     },
     "superteam": {
@@ -200,14 +200,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0019094
+      "xtm_usd": 0.0018152
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 10,
+      "active": 9,
       "ok": true,
       "preliminary": 0
     }
