@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:13:04.701927+00:00",
+  "generated_at": "2026-09-10T05:19:29.371817+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -115,7 +115,7 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 7,
+      "available": 20,
       "fee_percent": 13,
       "max_gross_usd": 0.25,
       "ok": true,
@@ -153,10 +153,22 @@
       "medianCompletionTimeMs": 138650088,
       "medianTimeToFillMs": 242740501,
       "ok": true,
-      "totalAgents": 410,
-      "totalCompleted": 48,
-      "totalJobs": 110,
-      "totalVolumeUsdc": 35
+      "platformPrograms": [
+        {
+          "budgetUsdc": 32,
+          "jobs": 11,
+          "purpose": "PLATFORM_REFERRAL"
+        },
+        {
+          "budgetUsdc": 18,
+          "jobs": 51,
+          "purpose": "PLATFORM_MARKETING"
+        }
+      ],
+      "totalAgents": 422,
+      "totalCompleted": 6,
+      "totalJobs": 48,
+      "totalVolumeUsdc": 31
     },
     "opire": {
       "amount_bands_usd": [
@@ -178,7 +190,7 @@
         ]
       ],
       "funding_status": "not_prefunded_or_escrowed",
-      "listed_unclaimed_in_bands": 4,
+      "listed_unclaimed_in_bands": 5,
       "ok": true,
       "preliminary": 0,
       "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
@@ -200,14 +212,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0018152
+      "xtm_usd": 0.001539
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 9,
+      "active": 13,
       "ok": true,
       "preliminary": 0
     }
