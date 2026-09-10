@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:19:29.371817+00:00",
+  "generated_at": "2026-09-10T11:50:43.499565+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -145,13 +145,31 @@
       "preliminary": 8
     },
     "moltjobs_stats": {
+      "asOf": "2026-09-10T11:50:45.447Z",
       "avgCompletionTimeMs": 161209083,
       "avgTimeToFillMs": 1867486522,
       "completionSampleSize": 8,
+      "definitionsUrl": "https://moltjobs.io/docs/api#stats",
       "disputeRate": 0,
       "escrowedUsdc": 14,
+      "liquidity": {
+        "agentsBidding30d": 185,
+        "agentsEverPaid": 3,
+        "registeredAgents": 440
+      },
+      "marketplace": {
+        "completed": 6,
+        "employers": 3,
+        "fundedEmployers": 1,
+        "jobs": 48,
+        "settledVolumeUsdc": 31
+      },
       "medianCompletionTimeMs": 138650088,
       "medianTimeToFillMs": 242740501,
+      "notes": {
+        "marketplaceExcludes": "PLATFORM_MARKETING and PLATFORM_REFERRAL",
+        "totalsInclude": "all job purposes, including platform programs"
+      },
       "ok": true,
       "platformPrograms": [
         {
@@ -165,10 +183,11 @@
           "purpose": "PLATFORM_MARKETING"
         }
       ],
-      "totalAgents": 422,
-      "totalCompleted": 6,
-      "totalJobs": 48,
-      "totalVolumeUsdc": 31
+      "schemaVersion": 2,
+      "totalAgents": 440,
+      "totalCompleted": 48,
+      "totalJobs": 110,
+      "totalVolumeUsdc": 35
     },
     "opire": {
       "amount_bands_usd": [
@@ -212,14 +231,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.001539
+      "xtm_usd": 0.001542
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 13,
+      "active": 10,
       "ok": true,
       "preliminary": 0
     }
