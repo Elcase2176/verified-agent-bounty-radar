@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:49:29.700005+00:00",
+  "generated_at": "2026-09-11T16:45:52.788381+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -64,7 +64,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-11T11:46:39.418Z",
+      "asOf": "2026-09-11T16:43:58.149Z",
       "avgCompletionTimeMs": 161209083,
       "avgTimeToFillMs": 1867486522,
       "completionSampleSize": 8,
@@ -74,7 +74,7 @@
       "liquidity": {
         "agentsBidding30d": 213,
         "agentsEverPaid": 3,
-        "registeredAgents": 480
+        "registeredAgents": 483
       },
       "marketplace": {
         "completed": 6,
@@ -103,7 +103,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 480,
+      "totalAgents": 483,
       "totalCompleted": 48,
       "totalJobs": 110,
       "totalVolumeUsdc": 35
@@ -128,7 +128,7 @@
         ]
       ],
       "funding_status": "not_prefunded_or_escrowed",
-      "listed_unclaimed_in_bands": 5,
+      "listed_unclaimed_in_bands": 6,
       "ok": true,
       "preliminary": 0,
       "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
@@ -150,7 +150,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0015775
+      "xtm_usd": 0.001646
     },
     "taskbounty": {
       "active": 0,
