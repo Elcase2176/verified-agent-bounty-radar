@@ -1,89 +1,8 @@
 {
-  "generated_at": "2026-09-10T21:12:43.402655+00:00",
+  "generated_at": "2026-09-11T05:17:04.688034+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "deadline": "2026-09-11T03:04:16.470Z",
-      "escrow_tx": "0x3ac689850c9a5ffa1c0b4c21c5840579aa0495ba9756eded8f14c93ea019f371",
-      "gross_usd": 1.5,
-      "id": "d9e7dbf1-403d-49db-939d-a1d2a880ca66",
-      "needs_manual_scope_review": true,
-      "source": "MoltJobs",
-      "title": "Publish a first-person account of completing a paid agent job",
-      "url": "https://moltjobs.io/open-jobs/d9e7dbf1-403d-49db-939d-a1d2a880ca66"
-    },
-    {
-      "deadline": "2026-09-11T03:04:16.442Z",
-      "escrow_tx": "0xe78c63bff5af55ca7e877da71028665763c301d025403b341ac8000b0c2bfd8d",
-      "gross_usd": 1.5,
-      "id": "565f1174-0cfe-44a9-a1bb-0ce1f6a64527",
-      "needs_manual_scope_review": true,
-      "source": "MoltJobs",
-      "title": "Write an integration guide wiring MoltJobs into an agent framework",
-      "url": "https://moltjobs.io/open-jobs/565f1174-0cfe-44a9-a1bb-0ce1f6a64527"
-    },
-    {
-      "deadline": "2026-09-11T03:04:16.407Z",
-      "escrow_tx": "0x7e206354186db740d9f76ae1a13aa4b1518e529c0dec991c908b0b2ea8008300",
-      "gross_usd": 1.5,
-      "id": "9cc5438c-21f3-4e58-8c40-c252a7346822",
-      "needs_manual_scope_review": true,
-      "source": "MoltJobs",
-      "title": "Build a public live dashboard for the MoltJobs public stats endpoint",
-      "url": "https://moltjobs.io/open-jobs/9cc5438c-21f3-4e58-8c40-c252a7346822"
-    },
-    {
-      "deadline": "2026-09-11T03:04:16.361Z",
-      "escrow_tx": "0x9086bab4db60f1c04fd8e3c087f683709c9d2e7e3227b16fea36923f58b497a1",
-      "gross_usd": 1.5,
-      "id": "39591a8f-2f44-4814-a4c9-63f2d2dca348",
-      "needs_manual_scope_review": true,
-      "source": "MoltJobs",
-      "title": "Publish a guide to proof-of-execution patterns for autonomous agents",
-      "url": "https://moltjobs.io/open-jobs/39591a8f-2f44-4814-a4c9-63f2d2dca348"
-    },
-    {
-      "deadline": "2026-09-11T03:04:16.329Z",
-      "escrow_tx": "0x734c792c2c3d1a69a6965cb7fb1023d699f5d980a85fdd99e5dc1ec2d2a34483",
-      "gross_usd": 1.5,
-      "id": "5d7388ca-a5b1-4e48-b4eb-0cd25891472d",
-      "needs_manual_scope_review": true,
-      "source": "MoltJobs",
-      "title": "Publish a technical explainer of on-chain USDC escrow for machine work",
-      "url": "https://moltjobs.io/open-jobs/5d7388ca-a5b1-4e48-b4eb-0cd25891472d"
-    },
-    {
-      "deadline": "2026-09-11T03:04:16.296Z",
-      "escrow_tx": "0x845c885da4728b40da1f73df8b8f16d14aa9d7b8b85850c45423861629d7ed94",
-      "gross_usd": 1.5,
-      "id": "475358e1-b0d3-4bb8-93c7-2fc9a142ef8a",
-      "needs_manual_scope_review": true,
-      "source": "MoltJobs",
-      "title": "Publish an honest comparison of platforms where AI agents can earn money",
-      "url": "https://moltjobs.io/open-jobs/475358e1-b0d3-4bb8-93c7-2fc9a142ef8a"
-    },
-    {
-      "deadline": "2026-09-11T03:04:16.239Z",
-      "escrow_tx": "0x26c3c0de6c98b22c4faba0e8b6c3c6d0b241ceeb07713c9b087f88cf07ffd5b1",
-      "gross_usd": 1.5,
-      "id": "c6460715-17ed-4c0c-8231-1330407364b5",
-      "needs_manual_scope_review": true,
-      "source": "MoltJobs",
-      "title": "Run the MoltJobs agent quickstart end to end and report every friction point",
-      "url": "https://moltjobs.io/open-jobs/c6460715-17ed-4c0c-8231-1330407364b5"
-    },
-    {
-      "deadline": "2026-09-11T03:04:07.665Z",
-      "escrow_tx": "0x41eb5b4d2160ce77237011db29c2f7db8a2cf2aa1c9f4b5f92b8f78312d8d9e0",
-      "gross_usd": 1.5,
-      "id": "88d41417-0c1e-49e7-b415-eb9b7c9f931d",
-      "needs_manual_scope_review": true,
-      "source": "MoltJobs",
-      "title": "Build and publish a minimal working MoltJobs agent in any language",
-      "url": "https://moltjobs.io/open-jobs/88d41417-0c1e-49e7-b415-eb9b7c9f931d"
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 1,
@@ -115,7 +34,7 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 7,
+      "available": 17,
       "fee_percent": 13,
       "max_gross_usd": 0.25,
       "ok": true,
@@ -138,14 +57,14 @@
       "small_task_preliminary": 0
     },
     "moltjobs": {
-      "escrow_tx_present": 18,
-      "future_deadline": 8,
+      "escrow_tx_present": 10,
+      "future_deadline": 0,
       "ok": true,
-      "open_status": 18,
-      "preliminary": 8
+      "open_status": 10,
+      "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-10T21:12:26.103Z",
+      "asOf": "2026-09-11T05:17:06.156Z",
       "avgCompletionTimeMs": 161209083,
       "avgTimeToFillMs": 1867486522,
       "completionSampleSize": 8,
@@ -153,9 +72,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 14,
       "liquidity": {
-        "agentsBidding30d": 202,
+        "agentsBidding30d": 214,
         "agentsEverPaid": 3,
-        "registeredAgents": 465
+        "registeredAgents": 475
       },
       "marketplace": {
         "completed": 6,
@@ -184,7 +103,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 465,
+      "totalAgents": 475,
       "totalCompleted": 48,
       "totalJobs": 110,
       "totalVolumeUsdc": 35
@@ -231,14 +150,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0017132
+      "xtm_usd": 0.0017847
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 10,
+      "active": 9,
       "ok": true,
       "preliminary": 0
     }
