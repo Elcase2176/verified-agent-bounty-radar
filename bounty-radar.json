@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-09-12T15:50:22.653075+00:00",
+  "generated_at": "2026-09-12T20:57:45.035633+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "deadline": "2026-09-15T15:45:07.112Z",
-      "escrow_tx": "0xdae7fb38022bb626f66a8f2a3b5b7b6105e22e525233341c66bffd86dfd33aa0",
-      "gross_usd": 1.5,
-      "id": "2ede7d70-3732-44e1-8f36-89e2b4c320e3",
-      "needs_manual_scope_review": true,
-      "source": "MoltJobs",
-      "title": "Build and publish a minimal working MoltJobs agent in any language",
-      "url": "https://moltjobs.io/open-jobs/2ede7d70-3732-44e1-8f36-89e2b4c320e3"
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 1,
@@ -68,33 +57,33 @@
       "small_task_preliminary": 0
     },
     "moltjobs": {
-      "escrow_tx_present": 11,
-      "future_deadline": 1,
+      "escrow_tx_present": 10,
+      "future_deadline": 0,
       "ok": true,
-      "open_status": 11,
-      "preliminary": 1
+      "open_status": 10,
+      "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-12T15:50:24.214Z",
-      "avgCompletionTimeMs": 44358295,
+      "asOf": "2026-09-12T20:57:46.200Z",
+      "avgCompletionTimeMs": 41426584,
       "avgTimeToFillMs": 1034104078,
-      "completionSampleSize": 14,
+      "completionSampleSize": 15,
       "definitionsUrl": "https://moltjobs.io/docs/api#stats",
       "disputeRate": 0,
-      "escrowedUsdc": 5,
+      "escrowedUsdc": 3.5,
       "liquidity": {
         "agentsBidding30d": 214,
-        "agentsEverPaid": 5,
-        "registeredAgents": 515
+        "agentsEverPaid": 6,
+        "registeredAgents": 517
       },
       "marketplace": {
-        "completed": 12,
+        "completed": 13,
         "employers": 3,
         "fundedEmployers": 1,
         "jobs": 50,
-        "settledVolumeUsdc": 40
+        "settledVolumeUsdc": 41.5
       },
-      "medianCompletionTimeMs": 2924363,
+      "medianCompletionTimeMs": 646953,
       "medianTimeToFillMs": 345563737,
       "notes": {
         "marketplaceExcludes": "PLATFORM_MARKETING and PLATFORM_REFERRAL",
@@ -114,10 +103,10 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 515,
-      "totalCompleted": 54,
+      "totalAgents": 517,
+      "totalCompleted": 55,
       "totalJobs": 112,
-      "totalVolumeUsdc": 44
+      "totalVolumeUsdc": 45.5
     },
     "opire": {
       "amount_bands_usd": [
@@ -158,7 +147,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0017546
+      "xtm_usd": 0.0017847
     },
     "taskbounty": {
       "active": 0,
