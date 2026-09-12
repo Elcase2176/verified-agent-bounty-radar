@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:19:42.813240+00:00",
+  "generated_at": "2026-09-12T05:05:46.626601+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -34,7 +34,7 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 15,
+      "available": 7,
       "fee_percent": 13,
       "max_gross_usd": 0.25,
       "ok": true,
@@ -64,9 +64,9 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-11T21:18:57.791Z",
-      "avgCompletionTimeMs": 161209083,
-      "avgTimeToFillMs": 1867486522,
+      "asOf": "2026-09-12T05:01:25.098Z",
+      "avgCompletionTimeMs": -213820370,
+      "avgTimeToFillMs": 2242515975,
       "completionSampleSize": 8,
       "definitionsUrl": "https://moltjobs.io/docs/api#stats",
       "disputeRate": 0,
@@ -74,7 +74,7 @@
       "liquidity": {
         "agentsBidding30d": 214,
         "agentsEverPaid": 3,
-        "registeredAgents": 489
+        "registeredAgents": 499
       },
       "marketplace": {
         "completed": 6,
@@ -83,8 +83,8 @@
         "jobs": 48,
         "settledVolumeUsdc": 31
       },
-      "medianCompletionTimeMs": 138650088,
-      "medianTimeToFillMs": 242740501,
+      "medianCompletionTimeMs": -295419450,
+      "medianTimeToFillMs": 991400463,
       "notes": {
         "marketplaceExcludes": "PLATFORM_MARKETING and PLATFORM_REFERRAL",
         "totalsInclude": "all job purposes, including platform programs"
@@ -103,7 +103,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 489,
+      "totalAgents": 499,
       "totalCompleted": 48,
       "totalJobs": 110,
       "totalVolumeUsdc": 35
@@ -150,14 +150,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0017308
+      "xtm_usd": 0.00187
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 9,
+      "active": 5,
       "ok": true,
       "preliminary": 0
     }
