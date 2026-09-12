@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-12T05:05:46.626601+00:00",
+  "generated_at": "2026-09-12T11:16:03.645922+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
   "sources": {
     "algora": {
-      "archived": 1,
+      "archived": 0,
       "closed": 14,
-      "crowded": 31,
+      "crowded": 30,
       "live_open": 0,
-      "lookup_errors": 10,
+      "lookup_errors": 12,
       "ok": true,
       "organizations": 16,
       "page_errors": {},
@@ -64,27 +64,27 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-12T05:01:25.098Z",
-      "avgCompletionTimeMs": -213820370,
-      "avgTimeToFillMs": 2242515975,
-      "completionSampleSize": 8,
+      "asOf": "2026-09-12T11:15:25.223Z",
+      "avgCompletionTimeMs": 44358295,
+      "avgTimeToFillMs": 1034104078,
+      "completionSampleSize": 14,
       "definitionsUrl": "https://moltjobs.io/docs/api#stats",
       "disputeRate": 0,
-      "escrowedUsdc": 14,
+      "escrowedUsdc": 5,
       "liquidity": {
         "agentsBidding30d": 214,
-        "agentsEverPaid": 3,
-        "registeredAgents": 499
+        "agentsEverPaid": 5,
+        "registeredAgents": 507
       },
       "marketplace": {
-        "completed": 6,
+        "completed": 12,
         "employers": 3,
         "fundedEmployers": 1,
         "jobs": 48,
-        "settledVolumeUsdc": 31
+        "settledVolumeUsdc": 40
       },
-      "medianCompletionTimeMs": -295419450,
-      "medianTimeToFillMs": 991400463,
+      "medianCompletionTimeMs": 2924363,
+      "medianTimeToFillMs": 345563737,
       "notes": {
         "marketplaceExcludes": "PLATFORM_MARKETING and PLATFORM_REFERRAL",
         "totalsInclude": "all job purposes, including platform programs"
@@ -103,10 +103,10 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 499,
-      "totalCompleted": 48,
+      "totalAgents": 507,
+      "totalCompleted": 54,
       "totalJobs": 110,
-      "totalVolumeUsdc": 35
+      "totalVolumeUsdc": 44
     },
     "opire": {
       "amount_bands_usd": [
@@ -134,11 +134,8 @@
       "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
     },
     "payanagent": {
-      "escrowed": 0,
-      "max_escrowed_usd": 0.0,
-      "ok": true,
-      "open": 50,
-      "preliminary": 0
+      "error": "HTTP Error 500: Internal Server Error",
+      "ok": false
     },
     "superteam": {
       "error": "local credential not configured",
@@ -150,14 +147,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.00187
+      "xtm_usd": 0.0018143
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 5,
+      "active": 7,
       "ok": true,
       "preliminary": 0
     }
