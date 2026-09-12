@@ -1,15 +1,26 @@
 {
-  "generated_at": "2026-09-12T11:16:03.645922+00:00",
+  "generated_at": "2026-09-12T15:50:22.653075+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "deadline": "2026-09-15T15:45:07.112Z",
+      "escrow_tx": "0xdae7fb38022bb626f66a8f2a3b5b7b6105e22e525233341c66bffd86dfd33aa0",
+      "gross_usd": 1.5,
+      "id": "2ede7d70-3732-44e1-8f36-89e2b4c320e3",
+      "needs_manual_scope_review": true,
+      "source": "MoltJobs",
+      "title": "Build and publish a minimal working MoltJobs agent in any language",
+      "url": "https://moltjobs.io/open-jobs/2ede7d70-3732-44e1-8f36-89e2b4c320e3"
+    }
+  ],
   "sources": {
     "algora": {
-      "archived": 0,
+      "archived": 1,
       "closed": 14,
-      "crowded": 30,
+      "crowded": 31,
       "live_open": 0,
-      "lookup_errors": 12,
+      "lookup_errors": 10,
       "ok": true,
       "organizations": 16,
       "page_errors": {},
@@ -57,14 +68,14 @@
       "small_task_preliminary": 0
     },
     "moltjobs": {
-      "escrow_tx_present": 10,
-      "future_deadline": 0,
+      "escrow_tx_present": 11,
+      "future_deadline": 1,
       "ok": true,
-      "open_status": 10,
-      "preliminary": 0
+      "open_status": 11,
+      "preliminary": 1
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-12T11:15:25.223Z",
+      "asOf": "2026-09-12T15:50:24.214Z",
       "avgCompletionTimeMs": 44358295,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 14,
@@ -74,13 +85,13 @@
       "liquidity": {
         "agentsBidding30d": 214,
         "agentsEverPaid": 5,
-        "registeredAgents": 507
+        "registeredAgents": 515
       },
       "marketplace": {
         "completed": 12,
         "employers": 3,
         "fundedEmployers": 1,
-        "jobs": 48,
+        "jobs": 50,
         "settledVolumeUsdc": 40
       },
       "medianCompletionTimeMs": 2924363,
@@ -103,9 +114,9 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 507,
+      "totalAgents": 515,
       "totalCompleted": 54,
-      "totalJobs": 110,
+      "totalJobs": 112,
       "totalVolumeUsdc": 44
     },
     "opire": {
@@ -147,14 +158,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0018143
+      "xtm_usd": 0.0017546
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 7,
+      "active": 6,
       "ok": true,
       "preliminary": 0
     }
