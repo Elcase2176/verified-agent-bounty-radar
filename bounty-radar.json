@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-09-17T17:16:26.730677+00:00",
+  "generated_at": "2026-09-17T21:46:41.020218+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "competitors": 2,
-      "escrow_tx": "0xa4651f88e80075c744bf0c0e1b3aa56298fa831e3a4b706f9406d5c9c493767b",
-      "expires_at": "2026-10-16T23:00:01.373Z",
-      "id": "0x5f596b1a81417834a4366655bd4e6194819f5404a62c919c6953ae9bc92860bc",
-      "needs_manual_scope_review": true,
-      "net_usd": 184.075,
-      "source": "Taskmarket",
-      "title": "Quantum-Safe Bitcoin: share 199 USDC for verified Yukon improvements"
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 1,
@@ -75,7 +64,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-17T17:16:27.973Z",
+      "asOf": "2026-09-17T21:46:35.916Z",
       "avgCompletionTimeMs": 41426584,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 15,
@@ -85,7 +74,7 @@
       "liquidity": {
         "agentsBidding30d": 205,
         "agentsEverPaid": 6,
-        "registeredAgents": 612
+        "registeredAgents": 616
       },
       "marketplace": {
         "completed": 13,
@@ -114,7 +103,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 612,
+      "totalAgents": 616,
       "totalCompleted": 55,
       "totalJobs": 112,
       "totalVolumeUsdc": 45.5
@@ -158,7 +147,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0018183
+      "xtm_usd": 0.0018057
     },
     "taskbounty": {
       "active": 0,
@@ -167,7 +156,7 @@
     "taskmarket": {
       "active": 4,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 0
     }
   },
   "target_total_usd": 5.0
