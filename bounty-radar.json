@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-09-17T05:26:13.170558+00:00",
+  "generated_at": "2026-09-17T12:06:39.221024+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 2,
+      "escrow_tx": "0xa4651f88e80075c744bf0c0e1b3aa56298fa831e3a4b706f9406d5c9c493767b",
+      "expires_at": "2026-10-16T23:00:01.373Z",
+      "id": "0x5f596b1a81417834a4366655bd4e6194819f5404a62c919c6953ae9bc92860bc",
+      "needs_manual_scope_review": true,
+      "net_usd": 184.075,
+      "source": "Taskmarket",
+      "title": "Quantum-Safe Bitcoin: share 199 USDC for verified Yukon improvements"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 1,
@@ -34,9 +45,9 @@
       "unclaimed": 0
     },
     "execution_market": {
-      "available": 1,
+      "available": 0,
       "fee_percent": 13,
-      "max_gross_usd": 0.25,
+      "max_gross_usd": 0.0,
       "ok": true,
       "preliminary": 0
     },
@@ -64,7 +75,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-17T05:22:49.526Z",
+      "asOf": "2026-09-17T12:06:40.359Z",
       "avgCompletionTimeMs": 41426584,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 15,
@@ -72,9 +83,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.5,
       "liquidity": {
-        "agentsBidding30d": 207,
+        "agentsBidding30d": 206,
         "agentsEverPaid": 6,
-        "registeredAgents": 604
+        "registeredAgents": 607
       },
       "marketplace": {
         "completed": 13,
@@ -103,7 +114,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 604,
+      "totalAgents": 607,
       "totalCompleted": 55,
       "totalJobs": 112,
       "totalVolumeUsdc": 45.5
@@ -147,16 +158,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0016602
+      "xtm_usd": 0.001675
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 3,
+      "active": 4,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 1
     }
   },
   "target_total_usd": 5.0
