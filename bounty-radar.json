@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T16:29:55.552976+00:00",
+  "generated_at": "2026-09-20T21:03:43.037466+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -103,7 +103,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0020384
+      "xtm_usd": 0.0021119
     },
     "taskbounty": {
       "active": 0,
