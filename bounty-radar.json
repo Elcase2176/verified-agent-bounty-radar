@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:18:15.691578+00:00",
+  "generated_at": "2026-09-22T21:40:02.527737+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -36,7 +36,7 @@
     "execution_market": {
       "available": 1,
       "fee_percent": 13,
-      "max_gross_usd": 0.1,
+      "max_gross_usd": 0.02,
       "ok": true,
       "preliminary": 0
     },
@@ -84,7 +84,7 @@
         ]
       ],
       "funding_status": "not_prefunded_or_escrowed",
-      "listed_unclaimed_in_bands": 4,
+      "listed_unclaimed_in_bands": 3,
       "ok": true,
       "preliminary": 0,
       "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
@@ -103,7 +103,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0020678
+      "xtm_usd": 0.0020752
     },
     "taskbounty": {
       "active": 0,
