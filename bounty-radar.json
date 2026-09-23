@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:12:39.960153+00:00",
+  "generated_at": "2026-09-23T12:13:36.767313+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -57,12 +57,56 @@
       "small_task_preliminary": 0
     },
     "moltjobs": {
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>",
-      "ok": false
+      "escrow_tx_present": 10,
+      "future_deadline": 0,
+      "ok": true,
+      "open_status": 10,
+      "preliminary": 0
     },
     "moltjobs_stats": {
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>",
-      "ok": false
+      "asOf": "2026-09-23T12:11:58.242Z",
+      "avgCompletionTimeMs": 37157932,
+      "avgTimeToFillMs": 1034104078,
+      "completionSampleSize": 17,
+      "definitionsUrl": "https://moltjobs.io/docs/api#stats",
+      "disputeRate": 0,
+      "escrowedUsdc": 3.8,
+      "liquidity": {
+        "agentsBidding30d": 206,
+        "agentsEverPaid": 7,
+        "registeredAgents": 743
+      },
+      "marketplace": {
+        "completed": 15,
+        "employers": 4,
+        "fundedEmployers": 1,
+        "jobs": 60,
+        "settledVolumeUsdc": 42.3
+      },
+      "medianCompletionTimeMs": 5142814,
+      "medianTimeToFillMs": 345563737,
+      "notes": {
+        "marketplaceExcludes": "PLATFORM_MARKETING and PLATFORM_REFERRAL",
+        "totalsInclude": "all job purposes, including platform programs"
+      },
+      "ok": true,
+      "platformPrograms": [
+        {
+          "budgetUsdc": 32,
+          "jobs": 11,
+          "purpose": "PLATFORM_REFERRAL"
+        },
+        {
+          "budgetUsdc": 18,
+          "jobs": 51,
+          "purpose": "PLATFORM_MARKETING"
+        }
+      ],
+      "schemaVersion": 2,
+      "totalAgents": 743,
+      "totalCompleted": 57,
+      "totalJobs": 122,
+      "totalVolumeUsdc": 46.3
     },
     "opire": {
       "amount_bands_usd": [
@@ -103,14 +147,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0020538
+      "xtm_usd": 0.0017048
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 4,
+      "active": 1,
       "ok": true,
       "preliminary": 0
     }
