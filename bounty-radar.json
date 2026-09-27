@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-09-26T21:35:35.002009+00:00",
+  "generated_at": "2026-09-27T05:48:00.213465+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 2,
+      "escrow_tx": "0x823e2502839735f24278443f618c261b09f148e96f6a38f63d22641892f7de4b",
+      "expires_at": "2026-10-04T02:28:40.486Z",
+      "id": "0x79640b45d7ac3bbc51ecb603dd42510164f217aecf31084eefba21350b4106cc",
+      "needs_manual_scope_review": true,
+      "net_usd": 27.75,
+      "source": "Taskmarket",
+      "title": "Taskmarket task: make a Taskmarket marketing film"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 1,
@@ -64,7 +75,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-26T21:35:36.263Z",
+      "asOf": "2026-09-27T05:48:01.148Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -74,7 +85,7 @@
       "liquidity": {
         "agentsBidding30d": 196,
         "agentsEverPaid": 7,
-        "registeredAgents": 794
+        "registeredAgents": 803
       },
       "marketplace": {
         "completed": 15,
@@ -103,7 +114,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 794,
+      "totalAgents": 803,
       "totalCompleted": 57,
       "totalJobs": 122,
       "totalVolumeUsdc": 46.3
@@ -147,7 +158,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.001723
+      "xtm_usd": 0.00168
     },
     "taskbounty": {
       "active": 0,
@@ -156,7 +167,7 @@
     "taskmarket": {
       "active": 3,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 1
     }
   },
   "target_total_usd": 5.0
