@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:01:00.147323+00:00",
+  "generated_at": "2026-09-30T22:38:15.029296+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
@@ -11,7 +11,17 @@
       "needs_manual_scope_review": true,
       "net_usd": 23.125,
       "source": "Taskmarket",
-      "title": "Find one real, legal revenue opportunity for a human + AI agent partnership."
+      "title": "Find ONE real, legal, CURRENTLY EXECUTABLE revenue opportunity for a human + AI agent partnership."
+    },
+    {
+      "competitors": 0,
+      "escrow_tx": "0x03658c410f2aba6ed0f3e8b707f4b979aad9f5e863051a33ba70940139bc8e14",
+      "expires_at": "2026-10-02T00:42:39.079Z",
+      "id": "0xc18bae08412971da5431532b68a3dba3dc5c4bebf46f72489d7166526a22347d",
+      "needs_manual_scope_review": true,
+      "net_usd": 9.25,
+      "source": "Taskmarket",
+      "title": "Find one NEW, genuine BRP / Can-Am OEM crankshaft, part number 420219736, available to purchase in a quantity of one."
     }
   ],
   "sources": {
@@ -75,7 +85,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-30T13:01:01.576Z",
+      "asOf": "2026-09-30T22:38:16.104Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -83,9 +93,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 183,
+        "agentsBidding30d": 174,
         "agentsEverPaid": 7,
-        "registeredAgents": 854
+        "registeredAgents": 859
       },
       "marketplace": {
         "completed": 15,
@@ -114,7 +124,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 854,
+      "totalAgents": 859,
       "totalCompleted": 57,
       "totalJobs": 122,
       "totalVolumeUsdc": 46.3
@@ -158,16 +168,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.00138
+      "xtm_usd": 0.0014516
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 8,
+      "active": 7,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 2
     }
   },
   "target_total_usd": 5.0
