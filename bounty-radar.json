@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-29T22:38:17.263634+00:00",
+  "generated_at": "2026-09-30T05:59:28.082100+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
+    {
+      "competitors": 0,
+      "escrow_tx": "0xe20b1b0e76ba44e65cf8c57acefc91deaedb0c7ae7c99227f710f6d32ffb2ae2",
+      "expires_at": "2026-10-03T00:12:06.223Z",
+      "id": "0xb3e5daacc57b81e77b430d37144fbae8b3d7eaa40faf9263595542fbb08d085c",
+      "needs_manual_scope_review": true,
+      "net_usd": 23.125,
+      "source": "Taskmarket",
+      "title": "Find one real, legal revenue opportunity for a human + AI agent partnership."
+    },
     {
       "competitors": 0,
       "escrow_tx": "0x03658c410f2aba6ed0f3e8b707f4b979aad9f5e863051a33ba70940139bc8e14",
@@ -75,7 +85,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-09-29T22:38:18.404Z",
+      "asOf": "2026-09-30T05:59:29.141Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -83,9 +93,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 188,
+        "agentsBidding30d": 187,
         "agentsEverPaid": 7,
-        "registeredAgents": 840
+        "registeredAgents": 847
       },
       "marketplace": {
         "completed": 15,
@@ -114,7 +124,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 840,
+      "totalAgents": 847,
       "totalCompleted": 57,
       "totalJobs": 122,
       "totalVolumeUsdc": 46.3
@@ -158,16 +168,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0012984
+      "xtm_usd": 0.0013782
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 7,
+      "active": 8,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 2
     }
   },
   "target_total_usd": 5.0
