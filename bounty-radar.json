@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-10-02T22:34:00.618486+00:00",
+  "generated_at": "2026-10-03T05:46:04.556468+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "competitors": 0,
-      "escrow_tx": "0xe20b1b0e76ba44e65cf8c57acefc91deaedb0c7ae7c99227f710f6d32ffb2ae2",
-      "expires_at": "2026-10-03T00:12:06.223Z",
-      "id": "0xb3e5daacc57b81e77b430d37144fbae8b3d7eaa40faf9263595542fbb08d085c",
-      "needs_manual_scope_review": true,
-      "net_usd": 23.125,
-      "source": "Taskmarket",
-      "title": "Find ONE real, legal, CURRENTLY EXECUTABLE revenue opportunity for a human + AI agent partnership."
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 1,
@@ -45,9 +34,9 @@
       "unclaimed": 7
     },
     "execution_market": {
-      "available": 3,
+      "available": 4,
       "fee_percent": 13,
-      "max_gross_usd": 0.02,
+      "max_gross_usd": 20.0,
       "ok": true,
       "preliminary": 0
     },
@@ -75,7 +64,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-02T22:30:10.840Z",
+      "asOf": "2026-10-03T05:42:32.078Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -83,9 +72,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 148,
+        "agentsBidding30d": 145,
         "agentsEverPaid": 7,
-        "registeredAgents": 898
+        "registeredAgents": 902
       },
       "marketplace": {
         "completed": 15,
@@ -114,7 +103,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 898,
+      "totalAgents": 902,
       "totalCompleted": 57,
       "totalJobs": 122,
       "totalVolumeUsdc": 46.3
@@ -158,16 +147,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.002168
+      "xtm_usd": 0.0020542
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 7,
+      "active": 3,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 0
     }
   },
   "target_total_usd": 5.0
