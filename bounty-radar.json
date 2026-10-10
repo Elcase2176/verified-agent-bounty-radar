@@ -1,15 +1,26 @@
 {
-  "generated_at": "2026-10-10T13:03:54.650687+00:00",
+  "generated_at": "2026-10-10T22:00:14.820643+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 2,
+      "escrow_tx": "0xd80787b13c20f34125b5fe9147e1fc1c7bb2f37f4516b14e56b0d1777c942685",
+      "expires_at": "2026-10-13T18:40:26.450Z",
+      "id": "0x1ed4df54a47b0ed6e615dd1658a7e64276d3002d4152922f04b40ccbb92fed38",
+      "needs_manual_scope_review": true,
+      "net_usd": 2.775,
+      "source": "Taskmarket",
+      "title": "Task: Use the Mycelium MCP server with as many wallets as possible"
+    }
+  ],
   "sources": {
     "algora": {
-      "archived": 0,
-      "closed": 0,
-      "crowded": 30,
+      "archived": 1,
+      "closed": 14,
+      "crowded": 31,
       "live_open": 0,
-      "lookup_errors": 26,
+      "lookup_errors": 10,
       "ok": true,
       "organizations": 16,
       "page_errors": {},
@@ -64,7 +75,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-10T13:00:46.657Z",
+      "asOf": "2026-10-10T22:00:16.106Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -72,9 +83,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 41,
+        "agentsBidding30d": 23,
         "agentsEverPaid": 7,
-        "registeredAgents": 985
+        "registeredAgents": 990
       },
       "marketplace": {
         "completed": 15,
@@ -103,7 +114,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 985,
+      "totalAgents": 990,
       "totalCompleted": 57,
       "totalJobs": 122,
       "totalVolumeUsdc": 46.3
@@ -150,7 +161,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0015796
+      "xtm_usd": 0.0015194
     },
     "taskbounty": {
       "active": 0,
@@ -159,7 +170,7 @@
     "taskmarket": {
       "active": 7,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 1
     }
   },
   "target_total_usd": 5.0
