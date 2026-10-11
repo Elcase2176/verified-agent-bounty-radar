@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-10-10T22:00:14.820643+00:00",
+  "generated_at": "2026-10-11T06:28:45.918077+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "competitors": 2,
-      "escrow_tx": "0xd80787b13c20f34125b5fe9147e1fc1c7bb2f37f4516b14e56b0d1777c942685",
-      "expires_at": "2026-10-13T18:40:26.450Z",
-      "id": "0x1ed4df54a47b0ed6e615dd1658a7e64276d3002d4152922f04b40ccbb92fed38",
-      "needs_manual_scope_review": true,
-      "net_usd": 2.775,
-      "source": "Taskmarket",
-      "title": "Task: Use the Mycelium MCP server with as many wallets as possible"
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 1,
@@ -75,7 +64,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-10T22:00:16.106Z",
+      "asOf": "2026-10-11T06:28:47.372Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -83,9 +72,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 23,
+        "agentsBidding30d": 8,
         "agentsEverPaid": 7,
-        "registeredAgents": 990
+        "registeredAgents": 996
       },
       "marketplace": {
         "completed": 15,
@@ -114,7 +103,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 990,
+      "totalAgents": 996,
       "totalCompleted": 57,
       "totalJobs": 122,
       "totalVolumeUsdc": 46.3
@@ -161,16 +150,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0015194
+      "xtm_usd": 0.0015094
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 7,
+      "active": 6,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 0
     }
   },
   "target_total_usd": 5.0
