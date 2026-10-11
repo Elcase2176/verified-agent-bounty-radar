@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:32:38.025742+00:00",
+  "generated_at": "2026-10-11T22:28:46.206199+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -64,7 +64,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-11T13:30:27.244Z",
+      "asOf": "2026-10-11T22:28:47.446Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -72,9 +72,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 8,
+        "agentsBidding30d": 7,
         "agentsEverPaid": 7,
-        "registeredAgents": 996
+        "registeredAgents": 998
       },
       "marketplace": {
         "completed": 15,
@@ -103,7 +103,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 996,
+      "totalAgents": 998,
       "totalCompleted": 57,
       "totalJobs": 122,
       "totalVolumeUsdc": 46.3
@@ -134,11 +134,8 @@
       "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
     },
     "payanagent": {
-      "escrowed": 0,
-      "max_escrowed_usd": 0.0,
-      "ok": true,
-      "open": 50,
-      "preliminary": 0
+      "error": "HTTP Error 500: Internal Server Error",
+      "ok": false
     },
     "superteam": {
       "error": "local credential not configured",
@@ -150,7 +147,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0014757
+      "xtm_usd": 0.0014215
     },
     "taskbounty": {
       "active": 0,
