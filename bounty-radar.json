@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-11T06:28:45.918077+00:00",
+  "generated_at": "2026-10-11T13:32:38.025742+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
   "sources": {
     "algora": {
-      "archived": 1,
-      "closed": 14,
-      "crowded": 31,
+      "archived": 0,
+      "closed": 0,
+      "crowded": 0,
       "live_open": 0,
-      "lookup_errors": 10,
+      "lookup_errors": 0,
       "ok": true,
       "organizations": 16,
       "page_errors": {},
       "preliminary": 0,
-      "rows": 63,
+      "rows": 0,
       "under_minimum": 0,
-      "unique_issues": 56
+      "unique_issues": 0
     },
     "bountyhub": {
       "listed": 10,
@@ -64,7 +64,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-11T06:28:47.372Z",
+      "asOf": "2026-10-11T13:30:27.244Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -150,14 +150,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0015094
+      "xtm_usd": 0.0014757
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 6,
+      "active": 8,
       "ok": true,
       "preliminary": 0
     }
