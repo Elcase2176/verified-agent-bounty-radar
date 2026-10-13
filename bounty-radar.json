@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:58:31.512786+00:00",
+  "generated_at": "2026-10-13T14:35:32.448768+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -64,7 +64,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-13T00:58:32.657Z",
+      "asOf": "2026-10-13T14:35:33.878Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -74,7 +74,7 @@
       "liquidity": {
         "agentsBidding30d": 7,
         "agentsEverPaid": 7,
-        "registeredAgents": 1010
+        "registeredAgents": 1016
       },
       "marketplace": {
         "completed": 15,
@@ -103,35 +103,14 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1010,
+      "totalAgents": 1016,
       "totalCompleted": 57,
       "totalJobs": 122,
       "totalVolumeUsdc": 46.3
     },
     "opire": {
-      "amount_bands_usd": [
-        [
-          5,
-          50
-        ],
-        [
-          50,
-          100
-        ],
-        [
-          100,
-          500
-        ],
-        [
-          500,
-          5000
-        ]
-      ],
-      "funding_status": "not_prefunded_or_escrowed",
-      "listed_unclaimed_in_bands": 3,
-      "ok": true,
-      "preliminary": 0,
-      "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
+      "error": "HTTP Error 500: Internal Server Error",
+      "ok": false
     },
     "payanagent": {
       "error": "HTTP Error 500: Internal Server Error",
@@ -147,7 +126,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.00143
+      "xtm_usd": 0.00139
     },
     "taskbounty": {
       "active": 0,
