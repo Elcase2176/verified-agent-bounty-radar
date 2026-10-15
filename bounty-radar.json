@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:08:20.749327+00:00",
+  "generated_at": "2026-10-15T17:22:14.992803+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -12,12 +12,7 @@
       "lookup_errors": 0,
       "ok": true,
       "organizations": 16,
-      "page_errors": {
-        "activepieces": "The read operation timed out",
-        "aqualinkorg": "The read operation timed out",
-        "arakoodev": "The read operation timed out",
-        "archestra-ai": "The read operation timed out"
-      },
+      "page_errors": {},
       "preliminary": 0,
       "rows": 0,
       "under_minimum": 0,
@@ -69,7 +64,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-15T12:06:54.982Z",
+      "asOf": "2026-10-15T17:18:29.385Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -79,7 +74,7 @@
       "liquidity": {
         "agentsBidding30d": 7,
         "agentsEverPaid": 7,
-        "registeredAgents": 1027
+        "registeredAgents": 1031
       },
       "marketplace": {
         "completed": 15,
@@ -108,7 +103,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1027,
+      "totalAgents": 1031,
       "totalCompleted": 57,
       "totalJobs": 122,
       "totalVolumeUsdc": 46.3
@@ -152,7 +147,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0014396
+      "xtm_usd": 0.001422
     },
     "taskbounty": {
       "active": 0,
