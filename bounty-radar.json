@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:22:14.992803+00:00",
+  "generated_at": "2026-10-15T21:47:45.983024+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -41,11 +41,11 @@
       "preliminary": 0
     },
     "gitwork": {
-      "error": "HTTP Error 404: Not Found",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
       "ok": false
     },
     "gitwork_stats": {
-      "error": "HTTP Error 404: Not Found",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
       "ok": false
     },
     "issuehunt": {
@@ -64,7 +64,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-15T17:18:29.385Z",
+      "asOf": "2026-10-15T21:47:47.506Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -147,7 +147,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.001422
+      "xtm_usd": 0.0014009
     },
     "taskbounty": {
       "active": 0,
