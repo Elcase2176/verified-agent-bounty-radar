@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:47:45.983024+00:00",
+  "generated_at": "2026-10-16T05:02:36.043277+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -64,7 +64,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-15T21:47:47.506Z",
+      "asOf": "2026-10-16T04:58:05.247Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -147,14 +147,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0014009
+      "xtm_usd": 0.0014422
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 7,
+      "active": 6,
       "ok": true,
       "preliminary": 0
     }
