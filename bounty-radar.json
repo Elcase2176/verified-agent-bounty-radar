@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-21T17:40:10.299388+00:00",
+  "generated_at": "2026-10-21T21:59:04.044916+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "deadline": "2026-10-22T20:16:36.254687+00:00",
+      "funding_status": "escrow locks only after publisher assigns worker",
+      "gross_usd": 8.0,
+      "id": "afaea14e-128d-4808-927b-d03fdc43f937",
+      "needs_manual_scope_review": true,
+      "net_usd": 6.96,
+      "payment_network": "base",
+      "source": "Execution Market",
+      "title": "[Novato] Entra a Execution Market con \"Continue with PayBox\" y cuéntanos qué pasa (video)"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 0,
@@ -34,11 +46,11 @@
       "unclaimed": 7
     },
     "execution_market": {
-      "available": 1,
+      "available": 13,
       "fee_percent": 13,
       "max_gross_usd": 8.0,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 1
     },
     "gitwork": {
       "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
@@ -64,7 +76,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-21T17:40:12.152Z",
+      "asOf": "2026-10-21T21:55:12.752Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -72,9 +84,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 70,
+        "agentsBidding30d": 72,
         "agentsEverPaid": 7,
-        "registeredAgents": 1148
+        "registeredAgents": 1155
       },
       "marketplace": {
         "completed": 15,
@@ -103,7 +115,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1148,
+      "totalAgents": 1155,
       "totalCompleted": 57,
       "totalJobs": 123,
       "totalVolumeUsdc": 46.3
@@ -147,14 +159,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0012755
+      "xtm_usd": 0.0012141
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 2,
+      "active": 3,
       "ok": true,
       "preliminary": 0
     }
