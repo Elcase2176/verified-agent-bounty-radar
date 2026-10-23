@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:27:42.451516+00:00",
+  "generated_at": "2026-10-23T21:41:26.135380+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -34,9 +34,9 @@
       "unclaimed": 7
     },
     "execution_market": {
-      "available": 0,
+      "available": 4,
       "fee_percent": 13,
-      "max_gross_usd": 0.0,
+      "max_gross_usd": 0.17,
       "ok": true,
       "preliminary": 0
     },
@@ -60,7 +60,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-23T17:26:55.588Z",
+      "asOf": "2026-10-23T21:41:27.462Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -70,7 +70,7 @@
       "liquidity": {
         "agentsBidding30d": 84,
         "agentsEverPaid": 7,
-        "registeredAgents": 1215
+        "registeredAgents": 1216
       },
       "marketplace": {
         "completed": 15,
@@ -99,14 +99,35 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1215,
+      "totalAgents": 1216,
       "totalCompleted": 57,
       "totalJobs": 123,
       "totalVolumeUsdc": 46.3
     },
     "opire": {
-      "error": "The read operation timed out",
-      "ok": false
+      "amount_bands_usd": [
+        [
+          5,
+          50
+        ],
+        [
+          50,
+          100
+        ],
+        [
+          100,
+          500
+        ],
+        [
+          500,
+          5000
+        ]
+      ],
+      "funding_status": "not_prefunded_or_escrowed",
+      "listed_unclaimed_in_bands": 2,
+      "ok": true,
+      "preliminary": 0,
+      "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
     },
     "payanagent": {
       "error": "HTTP Error 500: Internal Server Error",
@@ -122,14 +143,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0011393
+      "xtm_usd": 0.001138
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 7,
+      "active": 6,
       "ok": true,
       "preliminary": 0
     }
