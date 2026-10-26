@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:20:19.416794+00:00",
+  "generated_at": "2026-10-26T13:35:40.830205+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -60,7 +60,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-26T05:20:20.854Z",
+      "asOf": "2026-10-26T13:34:50.352Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -70,7 +70,7 @@
       "liquidity": {
         "agentsBidding30d": 84,
         "agentsEverPaid": 7,
-        "registeredAgents": 1240
+        "registeredAgents": 1242
       },
       "marketplace": {
         "completed": 15,
@@ -99,7 +99,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1240,
+      "totalAgents": 1242,
       "totalCompleted": 57,
       "totalJobs": 123,
       "totalVolumeUsdc": 46.3
@@ -150,7 +150,7 @@
       "ok": true
     },
     "taskmarket": {
-      "active": 3,
+      "active": 4,
       "ok": true,
       "preliminary": 0
     }
