@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-28T13:32:59.595304+00:00",
+  "generated_at": "2026-10-28T22:51:59.240063+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 0,
+      "escrow_tx": "0x4bff37d86aae82a033d8c20a1f08438bdff7155874afc871d278e8e893f3768c",
+      "expires_at": "2026-10-29T22:46:20.773Z",
+      "id": "0xfbcbe0ecb3e43ec2f880edaed6b4327f2debfd10028023fc961126302e2e35fd",
+      "needs_manual_scope_review": true,
+      "net_usd": 2.0,
+      "source": "Taskmarket",
+      "title": "Why a Cold Glass Wears Droplets"
+    },
+    {
+      "competitors": 0,
+      "escrow_tx": "0x5cdaa0351345efcb35de904656a86f8be1106ac0ed051b9868525c1f4a05c750",
+      "expires_at": "2026-10-29T22:44:33.188Z",
+      "id": "0x81ebaeebdd93c2f65d9f6db8b024f3f9fba4bbfa3ad9d4dd354b62988fb9ef6c",
+      "needs_manual_scope_review": true,
+      "net_usd": 2.0,
+      "source": "Taskmarket",
+      "title": "Five Dunes, Five Shapes in the Sand"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 0,
@@ -34,7 +55,7 @@
       "unclaimed": 7
     },
     "execution_market": {
-      "available": 3,
+      "available": 1,
       "fee_percent": 13,
       "max_gross_usd": 1.0,
       "ok": true,
@@ -60,7 +81,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-28T13:29:54.135Z",
+      "asOf": "2026-10-28T22:50:02.569Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -143,16 +164,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0009521
+      "xtm_usd": 0.0010212
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 9,
+      "active": 7,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 2
     }
   },
   "target_total_usd": 5.0
