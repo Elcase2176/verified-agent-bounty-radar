@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-30T13:35:57.240426+00:00",
+  "generated_at": "2026-10-30T22:39:12.050159+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 0,
+      "escrow_tx": "0xa1b76afe92ad68ed6c75b218d6094919f4583bc85c31fcec7848dddba58b0ee1",
+      "expires_at": "2026-10-30T23:21:03.279Z",
+      "id": "0x2538b43dc08618d9a3106c37644ad9ba364be46392116a0fb6e12e3c23153c87",
+      "needs_manual_scope_review": true,
+      "net_usd": 5.0,
+      "source": "Taskmarket",
+      "title": "Write a 6-item setup checklist for a smart thermostat."
+    },
+    {
+      "competitors": 0,
+      "escrow_tx": "0xadf729b846d503599ad786cd2ea16c834c29bac6613771aaea8c733ea3342d0b",
+      "expires_at": "2026-10-30T23:21:19.633Z",
+      "id": "0x5440b701683301e6ebf0b6d9e1324a4075aed8912717771889f6f533945cfb6a",
+      "needs_manual_scope_review": true,
+      "net_usd": 5.0,
+      "source": "Taskmarket",
+      "title": "Write 5 plant care cards for a garden center"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 0,
@@ -60,7 +81,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-30T13:35:58.226Z",
+      "asOf": "2026-10-30T22:39:13.167Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -70,7 +91,7 @@
       "liquidity": {
         "agentsBidding30d": 84,
         "agentsEverPaid": 7,
-        "registeredAgents": 1264
+        "registeredAgents": 1268
       },
       "marketplace": {
         "completed": 15,
@@ -99,7 +120,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1264,
+      "totalAgents": 1268,
       "totalCompleted": 57,
       "totalJobs": 123,
       "totalVolumeUsdc": 46.3
@@ -143,16 +164,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0010696
+      "xtm_usd": 0.0010209
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 5,
+      "active": 7,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 2
     }
   },
   "target_total_usd": 5.0
