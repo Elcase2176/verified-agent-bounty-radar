@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-10-31T13:05:15.276828+00:00",
+  "generated_at": "2026-10-31T21:52:10.550122+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 0,
+      "escrow_tx": "0x9fc3998165d742924323482bf4ea1f2bdc01b3327e0ade84ce48eaebe4b89f9c",
+      "expires_at": "2026-10-31T23:00:56.066Z",
+      "id": "0x2170a6ed8790b7de960cb2953af4ac2a67ca4f8c065c39289c534554ad37ab16",
+      "needs_manual_scope_review": true,
+      "net_usd": 5.0,
+      "source": "Taskmarket",
+      "title": "Write 4 one-line release notes for a bike subscription service."
+    },
+    {
+      "competitors": 0,
+      "escrow_tx": "0x4c4236c3ef2a5cf2bd331fdba3b51090c5e1f7478ae3fc6aa344fd1ebc2d84ad",
+      "expires_at": "2026-10-31T22:15:41.854Z",
+      "id": "0x6fb011ece181a3a9af8fefb07c95fe716b8b6d0c7c99ae9bba9cb6850030787c",
+      "needs_manual_scope_review": true,
+      "net_usd": 5.0,
+      "source": "Taskmarket",
+      "title": "Write 4 short error messages for a grocery list app."
+    },
+    {
+      "competitors": 0,
+      "escrow_tx": "0x512b67aafcfb32f99048741f727ab358341f7f516b693e8ba1825d9df2125f76",
+      "expires_at": "2026-10-31T22:22:59.026Z",
+      "id": "0x15f94e257e9025f5d9be3b3e582c76e69ec2948d02e91b273d3ca0fa1e1d31d4",
+      "needs_manual_scope_review": true,
+      "net_usd": 5.0,
+      "source": "Taskmarket",
+      "title": "Summarise 7 notes about a smart thermostat into one sentence."
+    },
+    {
+      "competitors": 0,
+      "escrow_tx": "0x20ab810fd15893aa58b29c659f5d5ae5b4a60e2135359e891ab0bfbb67709ff4",
+      "expires_at": "2026-10-31T22:35:13.300Z",
+      "id": "0x68045555466c59dd3bf431f6b1edf44de34763ba7d8927098f8b4580e4fb0046",
+      "needs_manual_scope_review": true,
+      "net_usd": 5.0,
+      "source": "Taskmarket",
+      "title": "Write 4 product bullets for a mechanical keyboard page."
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 0,
@@ -60,7 +101,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-10-31T13:00:43.522Z",
+      "asOf": "2026-10-31T21:52:11.531Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -143,16 +184,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0012836
+      "xtm_usd": 0.0012861
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 5,
+      "active": 7,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 4
     }
   },
   "target_total_usd": 5.0
