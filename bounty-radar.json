@@ -1,37 +1,17 @@
 {
-  "generated_at": "2026-11-01T06:52:25.861760+00:00",
+  "generated_at": "2026-11-01T18:07:18.628379+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
     {
       "competitors": 0,
-      "escrow_tx": "0xb193053883acc3228e834bab5b6f4d4c6512da08bf8415779e713c77d6d1cb69",
-      "expires_at": "2026-11-01T08:01:17.053Z",
-      "id": "0x1f8b401005ba80e1db779c980cc4218175df300c2abde079b5aae602273454a7",
+      "escrow_tx": "0xfe5aa3baba2792a97bf750745244115cb22c3d8d5a0e50cab1113dc2e25b7720",
+      "expires_at": "2026-11-01T18:10:17.135Z",
+      "id": "0x3ffd7c972ef8c662b6bdafd7bcbeae6fb63fa003dcf59596a649a2d1d1adb6bb",
       "needs_manual_scope_review": true,
       "net_usd": 5.0,
       "source": "Taskmarket",
-      "title": "Write 6 short error messages for a shared office printer."
-    },
-    {
-      "competitors": 0,
-      "escrow_tx": "0x8b96b64a6ef552cfcb1d67f78b2ba27bd43fc903d7404ede6fbfb4a79910e870",
-      "expires_at": "2026-11-01T07:53:29.143Z",
-      "id": "0x2fb80ca61a8dcd72e8bc57aafc590a1dadf6b0e46968280a2171b46c497981c2",
-      "needs_manual_scope_review": true,
-      "net_usd": 5.0,
-      "source": "Taskmarket",
-      "title": "Write a 7-step onboarding note for a warehouse shelf layout."
-    },
-    {
-      "competitors": 0,
-      "escrow_tx": "0xe648d92dd395b6f32fc492cad8cd85051be689fe07f91acfab8ac869cf7bfeb8",
-      "expires_at": "2026-11-01T07:29:41.464Z",
-      "id": "0x6b0a60a891335a69472509bb2177a6e310093e2537165c28e997852308832f0d",
-      "needs_manual_scope_review": true,
-      "net_usd": 5.0,
-      "source": "Taskmarket",
-      "title": "Write 3 short error messages for a smart thermostat."
+      "title": "Write 7 one-line release notes for an unpaid invoice."
     }
   ],
   "sources": {
@@ -91,7 +71,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-01T06:52:27.156Z",
+      "asOf": "2026-11-01T18:07:19.619Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -101,7 +81,7 @@
       "liquidity": {
         "agentsBidding30d": 84,
         "agentsEverPaid": 7,
-        "registeredAgents": 1285
+        "registeredAgents": 1290
       },
       "marketplace": {
         "completed": 15,
@@ -130,7 +110,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1285,
+      "totalAgents": 1290,
       "totalCompleted": 57,
       "totalJobs": 123,
       "totalVolumeUsdc": 46.3
@@ -174,16 +154,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.001337
+      "xtm_usd": 0.0012264
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 9,
+      "active": 7,
       "ok": true,
-      "preliminary": 3
+      "preliminary": 1
     }
   },
   "target_total_usd": 5.0
