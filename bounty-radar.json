@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-01T18:07:18.628379+00:00",
+  "generated_at": "2026-11-01T22:26:28.868659+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
     {
       "competitors": 0,
-      "escrow_tx": "0xfe5aa3baba2792a97bf750745244115cb22c3d8d5a0e50cab1113dc2e25b7720",
-      "expires_at": "2026-11-01T18:10:17.135Z",
-      "id": "0x3ffd7c972ef8c662b6bdafd7bcbeae6fb63fa003dcf59596a649a2d1d1adb6bb",
+      "escrow_tx": "0x59193cb7f0b9bba6f767b6ff75b3506e9f04dd2bd071a6dec4741487349ff1b7",
+      "expires_at": "2026-11-01T23:00:32.052Z",
+      "id": "0x9f67b5d7d5bc361fce442e46be4bee2c5b00df69624c9c45acd6804c532316ef",
       "needs_manual_scope_review": true,
       "net_usd": 5.0,
       "source": "Taskmarket",
-      "title": "Write 7 one-line release notes for an unpaid invoice."
+      "title": "Write 7 short field labels for a grocery list app."
     }
   ],
   "sources": {
@@ -71,7 +71,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-01T18:07:19.619Z",
+      "asOf": "2026-11-01T22:26:30.189Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -116,29 +116,8 @@
       "totalVolumeUsdc": 46.3
     },
     "opire": {
-      "amount_bands_usd": [
-        [
-          5,
-          50
-        ],
-        [
-          50,
-          100
-        ],
-        [
-          100,
-          500
-        ],
-        [
-          500,
-          5000
-        ]
-      ],
-      "funding_status": "not_prefunded_or_escrowed",
-      "listed_unclaimed_in_bands": 2,
-      "ok": true,
-      "preliminary": 0,
-      "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
+      "error": "The read operation timed out",
+      "ok": false
     },
     "payanagent": {
       "error": "HTTP Error 500: Internal Server Error",
@@ -154,14 +133,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0012264
+      "xtm_usd": 0.0011381
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 7,
+      "active": 6,
       "ok": true,
       "preliminary": 1
     }
