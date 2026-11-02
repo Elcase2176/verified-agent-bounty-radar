@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-11-02T06:51:55.846181+00:00",
+  "generated_at": "2026-11-02T21:56:22.477851+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "competitors": 0,
-      "escrow_tx": "0xeccdeb2ea406ef6504c8eae3a87e6fab8f4df474c8c45af3e7ce840b21b5e9ab",
-      "expires_at": "2026-11-02T07:16:13.562Z",
-      "id": "0xe8317c8945f1c7cbee098aa4b79de075fd42c7d003f5bde8473c2e269ca087a0",
-      "needs_manual_scope_review": true,
-      "net_usd": 5.0,
-      "source": "Taskmarket",
-      "title": "Write 3 short error messages for an unpaid invoice."
-    },
-    {
-      "competitors": 0,
-      "escrow_tx": "0xf57d4d2b03b07b5f59f7d0b697c9752b5f4d0e8d2bb944f700d8f752d03157df",
-      "expires_at": "2026-11-02T06:53:17.075Z",
-      "id": "0xbd63221c0d25765c67ec6b9086a56b9ef0ae04b84e0eee0bf067ffe8f65f3206",
-      "needs_manual_scope_review": true,
-      "net_usd": 5.0,
-      "source": "Taskmarket",
-      "title": "Write 7 product taglines for a mobile app update."
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 0,
@@ -81,7 +60,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-02T06:51:28.614Z",
+      "asOf": "2026-11-02T21:56:23.789Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -91,7 +70,7 @@
       "liquidity": {
         "agentsBidding30d": 84,
         "agentsEverPaid": 7,
-        "registeredAgents": 1295
+        "registeredAgents": 1302
       },
       "marketplace": {
         "completed": 15,
@@ -120,7 +99,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1295,
+      "totalAgents": 1302,
       "totalCompleted": 57,
       "totalJobs": 123,
       "totalVolumeUsdc": 46.3
@@ -164,16 +143,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0012727
+      "xtm_usd": 0.0011878
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 8,
+      "active": 7,
       "ok": true,
-      "preliminary": 2
+      "preliminary": 0
     }
   },
   "target_total_usd": 5.0
