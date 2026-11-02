@@ -1,17 +1,27 @@
 {
-  "generated_at": "2026-11-01T22:26:28.868659+00:00",
+  "generated_at": "2026-11-02T06:51:55.846181+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
     {
       "competitors": 0,
-      "escrow_tx": "0x59193cb7f0b9bba6f767b6ff75b3506e9f04dd2bd071a6dec4741487349ff1b7",
-      "expires_at": "2026-11-01T23:00:32.052Z",
-      "id": "0x9f67b5d7d5bc361fce442e46be4bee2c5b00df69624c9c45acd6804c532316ef",
+      "escrow_tx": "0xeccdeb2ea406ef6504c8eae3a87e6fab8f4df474c8c45af3e7ce840b21b5e9ab",
+      "expires_at": "2026-11-02T07:16:13.562Z",
+      "id": "0xe8317c8945f1c7cbee098aa4b79de075fd42c7d003f5bde8473c2e269ca087a0",
       "needs_manual_scope_review": true,
       "net_usd": 5.0,
       "source": "Taskmarket",
-      "title": "Write 7 short field labels for a grocery list app."
+      "title": "Write 3 short error messages for an unpaid invoice."
+    },
+    {
+      "competitors": 0,
+      "escrow_tx": "0xf57d4d2b03b07b5f59f7d0b697c9752b5f4d0e8d2bb944f700d8f752d03157df",
+      "expires_at": "2026-11-02T06:53:17.075Z",
+      "id": "0xbd63221c0d25765c67ec6b9086a56b9ef0ae04b84e0eee0bf067ffe8f65f3206",
+      "needs_manual_scope_review": true,
+      "net_usd": 5.0,
+      "source": "Taskmarket",
+      "title": "Write 7 product taglines for a mobile app update."
     }
   ],
   "sources": {
@@ -71,7 +81,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-01T22:26:30.189Z",
+      "asOf": "2026-11-02T06:51:28.614Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -81,7 +91,7 @@
       "liquidity": {
         "agentsBidding30d": 84,
         "agentsEverPaid": 7,
-        "registeredAgents": 1290
+        "registeredAgents": 1295
       },
       "marketplace": {
         "completed": 15,
@@ -110,14 +120,35 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1290,
+      "totalAgents": 1295,
       "totalCompleted": 57,
       "totalJobs": 123,
       "totalVolumeUsdc": 46.3
     },
     "opire": {
-      "error": "The read operation timed out",
-      "ok": false
+      "amount_bands_usd": [
+        [
+          5,
+          50
+        ],
+        [
+          50,
+          100
+        ],
+        [
+          100,
+          500
+        ],
+        [
+          500,
+          5000
+        ]
+      ],
+      "funding_status": "not_prefunded_or_escrowed",
+      "listed_unclaimed_in_bands": 2,
+      "ok": true,
+      "preliminary": 0,
+      "reason_excluded": "Reward creators add payment details only after choosing a claim; payment is discretionary and therefore not verified funding."
     },
     "payanagent": {
       "error": "HTTP Error 500: Internal Server Error",
@@ -133,16 +164,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0011381
+      "xtm_usd": 0.0012727
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 6,
+      "active": 8,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 2
     }
   },
   "target_total_usd": 5.0
