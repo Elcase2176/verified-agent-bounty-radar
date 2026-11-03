@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-11-02T21:56:22.477851+00:00",
+  "generated_at": "2026-11-03T07:15:38.110051+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 0,
+      "escrow_tx": "0xa0e325de6339052cb7089e09b746e758e0514f7cf596242128a9d85c62ca3e1b",
+      "expires_at": "2026-11-03T08:09:49.686Z",
+      "id": "0xbe615f0b9e278de9fdc659c2a32305d05b127016a54035f251c624dd060e19d1",
+      "needs_manual_scope_review": true,
+      "net_usd": 5.0,
+      "source": "Taskmarket",
+      "title": "Write a 6-question FAQ for a reusable coffee cup."
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 0,
@@ -34,9 +45,9 @@
       "unclaimed": 7
     },
     "execution_market": {
-      "available": 0,
+      "available": 1,
       "fee_percent": 13,
-      "max_gross_usd": 0.0,
+      "max_gross_usd": 0.1,
       "ok": true,
       "preliminary": 0
     },
@@ -60,7 +71,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-02T21:56:23.789Z",
+      "asOf": "2026-11-03T07:12:08.082Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -70,7 +81,7 @@
       "liquidity": {
         "agentsBidding30d": 84,
         "agentsEverPaid": 7,
-        "registeredAgents": 1302
+        "registeredAgents": 1308
       },
       "marketplace": {
         "completed": 15,
@@ -82,7 +93,7 @@
       "medianCompletionTimeMs": 5142814,
       "medianTimeToFillMs": 345563737,
       "notes": {
-        "marketplaceExcludes": "PLATFORM_MARKETING and PLATFORM_REFERRAL",
+        "marketplaceExcludes": "PLATFORM_MARKETING, PLATFORM_REFERRAL, and PLATFORM_OPERATIONS",
         "totalsInclude": "all job purposes, including platform programs"
       },
       "ok": true,
@@ -99,7 +110,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1302,
+      "totalAgents": 1308,
       "totalCompleted": 57,
       "totalJobs": 123,
       "totalVolumeUsdc": 46.3
@@ -143,16 +154,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0011878
+      "xtm_usd": 0.0012775
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 7,
+      "active": 8,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 1
     }
   },
   "target_total_usd": 5.0
