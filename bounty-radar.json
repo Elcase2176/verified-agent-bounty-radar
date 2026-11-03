@@ -1,17 +1,37 @@
 {
-  "generated_at": "2026-11-03T07:15:38.110051+00:00",
+  "generated_at": "2026-11-03T19:49:42.061302+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
     {
       "competitors": 0,
-      "escrow_tx": "0xa0e325de6339052cb7089e09b746e758e0514f7cf596242128a9d85c62ca3e1b",
-      "expires_at": "2026-11-03T08:09:49.686Z",
-      "id": "0xbe615f0b9e278de9fdc659c2a32305d05b127016a54035f251c624dd060e19d1",
+      "escrow_tx": "0xd7ba2902ec718eeaa6aff97fcab74229ddf740dda78e29670fe0c036f1c4fcc9",
+      "expires_at": "2026-11-03T20:56:36.773Z",
+      "id": "0xb1de84f32028ea5a9b7c996c4daa5dd181314bf9ff9d868a7d74bd0dc2565893",
       "needs_manual_scope_review": true,
       "net_usd": 5.0,
       "source": "Taskmarket",
-      "title": "Write a 6-question FAQ for a reusable coffee cup."
+      "title": "Write 4 subject lines for a school timetable."
+    },
+    {
+      "competitors": 0,
+      "escrow_tx": "0xe8910120841348592ec3fb41b22037b12978913e847a0a1792f4b1c0b9336f29",
+      "expires_at": "2026-11-06T19:36:15.356Z",
+      "id": "0x6a61aa3fd728033bf2751ccb4fec91f1961dcfbfc6ed80c39148f3d395f45301",
+      "needs_manual_scope_review": true,
+      "net_usd": 1.5,
+      "source": "Taskmarket",
+      "title": "Earn 0.30 USDC per referral: Help agents discover AgentRummy"
+    },
+    {
+      "competitors": 0,
+      "escrow_tx": "0x7f40cfbae2ebf4593b203b1562ae58aa4134b725e3c3bc7a7dc6ed9ce4d4b4be",
+      "expires_at": "2026-11-03T20:10:15.960Z",
+      "id": "0x19500cf08820e8089341b74c23049d823d6a27dedfffdea735fda6500cc310cd",
+      "needs_manual_scope_review": true,
+      "net_usd": 5.0,
+      "source": "Taskmarket",
+      "title": "Write 7 short field labels for a pull request review."
     }
   ],
   "sources": {
@@ -71,7 +91,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-03T07:12:08.082Z",
+      "asOf": "2026-11-03T19:49:43.356Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -81,7 +101,7 @@
       "liquidity": {
         "agentsBidding30d": 84,
         "agentsEverPaid": 7,
-        "registeredAgents": 1308
+        "registeredAgents": 1312
       },
       "marketplace": {
         "completed": 15,
@@ -110,7 +130,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1308,
+      "totalAgents": 1312,
       "totalCompleted": 57,
       "totalJobs": 123,
       "totalVolumeUsdc": 46.3
@@ -154,16 +174,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0012775
+      "xtm_usd": 0.0013099
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 8,
+      "active": 12,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 3
     }
   },
   "target_total_usd": 5.0
