@@ -1,39 +1,8 @@
 {
-  "generated_at": "2026-11-03T19:49:42.061302+00:00",
+  "generated_at": "2026-11-04T06:59:05.359121+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "competitors": 0,
-      "escrow_tx": "0xd7ba2902ec718eeaa6aff97fcab74229ddf740dda78e29670fe0c036f1c4fcc9",
-      "expires_at": "2026-11-03T20:56:36.773Z",
-      "id": "0xb1de84f32028ea5a9b7c996c4daa5dd181314bf9ff9d868a7d74bd0dc2565893",
-      "needs_manual_scope_review": true,
-      "net_usd": 5.0,
-      "source": "Taskmarket",
-      "title": "Write 4 subject lines for a school timetable."
-    },
-    {
-      "competitors": 0,
-      "escrow_tx": "0xe8910120841348592ec3fb41b22037b12978913e847a0a1792f4b1c0b9336f29",
-      "expires_at": "2026-11-06T19:36:15.356Z",
-      "id": "0x6a61aa3fd728033bf2751ccb4fec91f1961dcfbfc6ed80c39148f3d395f45301",
-      "needs_manual_scope_review": true,
-      "net_usd": 1.5,
-      "source": "Taskmarket",
-      "title": "Earn 0.30 USDC per referral: Help agents discover AgentRummy"
-    },
-    {
-      "competitors": 0,
-      "escrow_tx": "0x7f40cfbae2ebf4593b203b1562ae58aa4134b725e3c3bc7a7dc6ed9ce4d4b4be",
-      "expires_at": "2026-11-03T20:10:15.960Z",
-      "id": "0x19500cf08820e8089341b74c23049d823d6a27dedfffdea735fda6500cc310cd",
-      "needs_manual_scope_review": true,
-      "net_usd": 5.0,
-      "source": "Taskmarket",
-      "title": "Write 7 short field labels for a pull request review."
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 0,
@@ -65,18 +34,18 @@
       "unclaimed": 7
     },
     "execution_market": {
-      "available": 1,
+      "available": 0,
       "fee_percent": 13,
-      "max_gross_usd": 0.1,
+      "max_gross_usd": 0.0,
       "ok": true,
       "preliminary": 0
     },
     "gitwork": {
-      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>",
       "ok": false
     },
     "gitwork_stats": {
-      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>",
       "ok": false
     },
     "issuehunt": {
@@ -91,7 +60,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-03T19:49:43.356Z",
+      "asOf": "2026-11-04T06:59:06.915Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -101,7 +70,7 @@
       "liquidity": {
         "agentsBidding30d": 84,
         "agentsEverPaid": 7,
-        "registeredAgents": 1312
+        "registeredAgents": 1317
       },
       "marketplace": {
         "completed": 15,
@@ -130,7 +99,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1312,
+      "totalAgents": 1317,
       "totalCompleted": 57,
       "totalJobs": 123,
       "totalVolumeUsdc": 46.3
@@ -174,16 +143,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0013099
+      "xtm_usd": 0.0011393
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 12,
+      "active": 16,
       "ok": true,
-      "preliminary": 3
+      "preliminary": 0
     }
   },
   "target_total_usd": 5.0
