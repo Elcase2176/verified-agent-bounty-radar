@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:59:05.359121+00:00",
+  "generated_at": "2026-11-04T20:03:02.745639+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -41,11 +41,11 @@
       "preliminary": 0
     },
     "gitwork": {
-      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
       "ok": false
     },
     "gitwork_stats": {
-      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
       "ok": false
     },
     "issuehunt": {
@@ -54,13 +54,13 @@
     },
     "moltjobs": {
       "escrow_tx_present": 10,
-      "future_deadline": 0,
+      "future_deadline": 2,
       "ok": true,
-      "open_status": 10,
+      "open_status": 12,
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-04T06:59:06.915Z",
+      "asOf": "2026-11-04T20:03:05.449Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -68,15 +68,15 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 84,
+        "agentsBidding30d": 95,
         "agentsEverPaid": 7,
-        "registeredAgents": 1317
+        "registeredAgents": 1326
       },
       "marketplace": {
         "completed": 15,
         "employers": 5,
         "fundedEmployers": 1,
-        "jobs": 61,
+        "jobs": 63,
         "settledVolumeUsdc": 42.3
       },
       "medianCompletionTimeMs": 5142814,
@@ -99,9 +99,9 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1317,
+      "totalAgents": 1326,
       "totalCompleted": 57,
-      "totalJobs": 123,
+      "totalJobs": 125,
       "totalVolumeUsdc": 46.3
     },
     "opire": {
@@ -143,14 +143,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0011393
+      "xtm_usd": 0.00112
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 16,
+      "active": 17,
       "ok": true,
       "preliminary": 0
     }
