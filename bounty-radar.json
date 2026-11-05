@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-11-05T07:25:11.152006+00:00",
+  "generated_at": "2026-11-05T20:17:12.755976+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 2,
+      "escrow_tx": "0x474b6fd4acba496a873c9988c1ea89671baf4496fef17c6614ca02c68ad7f6b7",
+      "expires_at": "2026-11-08T20:14:17.397Z",
+      "id": "0x264c2e8e53ea98afe578f508d613e63a475b13d4a04995b871577b4edd38dc30",
+      "needs_manual_scope_review": true,
+      "net_usd": 2.5,
+      "source": "Taskmarket",
+      "title": "Redesign \"Cine\": a bold, mobile-first cinema guide"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 0,
@@ -41,11 +52,11 @@
       "preliminary": 0
     },
     "gitwork": {
-      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>",
       "ok": false
     },
     "gitwork_stats": {
-      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>",
       "ok": false
     },
     "issuehunt": {
@@ -60,7 +71,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-05T07:20:54.975Z",
+      "asOf": "2026-11-05T20:14:04.071Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -68,9 +79,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 107,
+        "agentsBidding30d": 114,
         "agentsEverPaid": 7,
-        "registeredAgents": 1341
+        "registeredAgents": 1351
       },
       "marketplace": {
         "completed": 15,
@@ -99,7 +110,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1341,
+      "totalAgents": 1351,
       "totalCompleted": 57,
       "totalJobs": 125,
       "totalVolumeUsdc": 46.3
@@ -143,16 +154,16 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.00103
+      "xtm_usd": 0.0011191
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 15,
+      "active": 16,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 1
     }
   },
   "target_total_usd": 5.0
