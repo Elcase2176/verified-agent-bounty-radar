@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:25:24.881928+00:00",
+  "generated_at": "2026-11-06T19:42:05.820417+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -12,7 +12,9 @@
       "lookup_errors": 0,
       "ok": true,
       "organizations": 16,
-      "page_errors": {},
+      "page_errors": {
+        "SCIBASE.AI": "HTTP Error 404: Not Found"
+      },
       "preliminary": 0,
       "rows": 0,
       "under_minimum": 0,
@@ -54,13 +56,13 @@
     },
     "moltjobs": {
       "escrow_tx_present": 10,
-      "future_deadline": 2,
+      "future_deadline": 6,
       "ok": true,
-      "open_status": 12,
+      "open_status": 16,
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-06T07:24:11.161Z",
+      "asOf": "2026-11-06T19:39:46.599Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -68,15 +70,15 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 120,
+        "agentsBidding30d": 128,
         "agentsEverPaid": 7,
-        "registeredAgents": 1360
+        "registeredAgents": 1367
       },
       "marketplace": {
         "completed": 15,
         "employers": 5,
         "fundedEmployers": 1,
-        "jobs": 63,
+        "jobs": 67,
         "settledVolumeUsdc": 42.3
       },
       "medianCompletionTimeMs": 5142814,
@@ -99,9 +101,9 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1360,
+      "totalAgents": 1367,
       "totalCompleted": 57,
-      "totalJobs": 125,
+      "totalJobs": 129,
       "totalVolumeUsdc": 46.3
     },
     "opire": {
@@ -143,14 +145,14 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0011379
+      "xtm_usd": 0.0011132
     },
     "taskbounty": {
       "active": 0,
       "ok": true
     },
     "taskmarket": {
-      "active": 18,
+      "active": 14,
       "ok": true,
       "preliminary": 0
     }
