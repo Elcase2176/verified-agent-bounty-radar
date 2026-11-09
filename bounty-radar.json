@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-11-09T07:13:18.473391+00:00",
+  "generated_at": "2026-11-09T22:42:58.589998+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "competitors": 2,
-      "escrow_tx": "0xa6d576902b12b0e0677b98d902464ce7039719eff2b626a57984150b970cc6d3",
-      "expires_at": "2026-11-12T04:03:10.192Z",
-      "id": "0x7a933370265179bc473b1df54f4f753c7d28d428cbf065d3b141aca862d93a87",
-      "needs_manual_scope_review": true,
-      "net_usd": 15.0,
-      "source": "Taskmarket",
-      "title": "Shop Lumen House and tell us how it went — 15 USDC"
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 0,
@@ -47,7 +36,7 @@
       "unclaimed": 7
     },
     "execution_market": {
-      "available": 1,
+      "available": 2,
       "fee_percent": 13,
       "max_gross_usd": 1.0,
       "ok": true,
@@ -67,13 +56,13 @@
     },
     "moltjobs": {
       "escrow_tx_present": 10,
-      "future_deadline": 5,
+      "future_deadline": 7,
       "ok": true,
-      "open_status": 15,
+      "open_status": 17,
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-09T07:11:13.560Z",
+      "asOf": "2026-11-09T22:40:53.969Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -81,15 +70,15 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 155,
+        "agentsBidding30d": 172,
         "agentsEverPaid": 7,
-        "registeredAgents": 1402
+        "registeredAgents": 1416
       },
       "marketplace": {
         "completed": 15,
-        "employers": 5,
+        "employers": 6,
         "fundedEmployers": 1,
-        "jobs": 67,
+        "jobs": 69,
         "settledVolumeUsdc": 42.3
       },
       "medianCompletionTimeMs": 5142814,
@@ -112,9 +101,9 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1402,
+      "totalAgents": 1416,
       "totalCompleted": 57,
-      "totalJobs": 129,
+      "totalJobs": 131,
       "totalVolumeUsdc": 46.3
     },
     "opire": {
@@ -156,7 +145,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0010579
+      "xtm_usd": 0.0010879
     },
     "taskbounty": {
       "active": 0,
@@ -165,7 +154,7 @@
     "taskmarket": {
       "active": 4,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 0
     }
   },
   "target_total_usd": 5.0
