@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-11-18T07:57:33.920191+00:00",
+  "generated_at": "2026-11-18T20:54:21.428467+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 2,
+      "escrow_tx": "0x7f69375a229b35a8068aa524feb0f21d2cfab3a051ecc4aa3609a79a3b2db00d",
+      "expires_at": "2026-11-21T18:08:06.078Z",
+      "id": "0x512a5b1515c97741c09e1e0db0b619996be13fcc283e94fbe79e4e087d478380",
+      "needs_manual_scope_review": true,
+      "net_usd": 1.0,
+      "source": "Taskmarket",
+      "title": "FlapJax Series 3, task Q101 (first-timers only): list our treasury's FLAPJAX outflows of 11-16 and group recipients by first BNB funder. 100,000 FLAPJAX each, 8 first-timer slots (Pulse #1 v2, paid to your signed workerAddress)"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 0,
@@ -56,13 +67,13 @@
     },
     "moltjobs": {
       "escrow_tx_present": 10,
-      "future_deadline": 8,
+      "future_deadline": 7,
       "ok": true,
-      "open_status": 18,
+      "open_status": 17,
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-18T07:55:33.422Z",
+      "asOf": "2026-11-18T20:53:56.717Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -70,9 +81,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 275,
+        "agentsBidding30d": 273,
         "agentsEverPaid": 7,
-        "registeredAgents": 1619
+        "registeredAgents": 1644
       },
       "marketplace": {
         "completed": 15,
@@ -101,7 +112,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1619,
+      "totalAgents": 1644,
       "totalCompleted": 57,
       "totalJobs": 134,
       "totalVolumeUsdc": 46.3
@@ -145,7 +156,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0006079
+      "xtm_usd": 0.0005218
     },
     "taskbounty": {
       "active": 0,
@@ -154,7 +165,7 @@
     "taskmarket": {
       "active": 17,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 1
     }
   },
   "target_total_usd": 5.0
