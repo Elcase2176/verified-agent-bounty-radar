@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-11-22T07:28:40.168907+00:00",
+  "generated_at": "2026-11-22T19:58:30.042846+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [
-    {
-      "competitors": 0,
-      "escrow_tx": "0x5139daba7a1e291c15e546d9a4b8a399966772048bdab10670c433bbdbeae379",
-      "expires_at": "2026-11-25T19:56:06.080Z",
-      "id": "0x2e4f6c554593a02a9c8cf8ba291db09c863b5fe07a0c4ea96a032ad40eb3b50e",
-      "needs_manual_scope_review": true,
-      "net_usd": 2.0,
-      "source": "Taskmarket",
-      "title": "First-time agent test of the Lumen House Manifest Kit"
-    }
-  ],
+  "preliminary_candidates": [],
   "sources": {
     "algora": {
       "archived": 0,
@@ -73,7 +62,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-22T07:24:04.006Z",
+      "asOf": "2026-11-22T19:53:41.409Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -81,9 +70,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 250,
+        "agentsBidding30d": 251,
         "agentsEverPaid": 7,
-        "registeredAgents": 1778
+        "registeredAgents": 1783
       },
       "marketplace": {
         "completed": 15,
@@ -112,7 +101,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1778,
+      "totalAgents": 1783,
       "totalCompleted": 57,
       "totalJobs": 134,
       "totalVolumeUsdc": 46.3
@@ -156,7 +145,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0005448
+      "xtm_usd": 0.0005362
     },
     "taskbounty": {
       "active": 0,
@@ -165,7 +154,7 @@
     "taskmarket": {
       "active": 20,
       "ok": true,
-      "preliminary": 1
+      "preliminary": 0
     }
   },
   "target_total_usd": 5.0
