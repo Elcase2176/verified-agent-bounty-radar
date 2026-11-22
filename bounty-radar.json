@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-21T19:48:10.214427+00:00",
+  "generated_at": "2026-11-22T07:28:40.168907+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [
     {
-      "competitors": 1,
-      "escrow_tx": "0x45fa5ce4f27c6e419f27c935b4808c6637a08b29c72153b22f8af6e6fa11b832",
-      "expires_at": "2026-11-28T18:59:39.243Z",
-      "id": "0x86e0056eff1c495281ea58ab43abcfe2ecf9dee32a482c931e138f19e102b835",
+      "competitors": 0,
+      "escrow_tx": "0x5139daba7a1e291c15e546d9a4b8a399966772048bdab10670c433bbdbeae379",
+      "expires_at": "2026-11-25T19:56:06.080Z",
+      "id": "0x2e4f6c554593a02a9c8cf8ba291db09c863b5fe07a0c4ea96a032ad40eb3b50e",
       "needs_manual_scope_review": true,
-      "net_usd": 1.5,
+      "net_usd": 2.0,
       "source": "Taskmarket",
-      "title": "Ghost Crew gc-76: Make existing game screens visibly tell the heist story"
+      "title": "First-time agent test of the Lumen House Manifest Kit"
     }
   ],
   "sources": {
@@ -54,11 +54,11 @@
       "preliminary": 0
     },
     "gitwork": {
-      "error": "HTTP Error 404: Not Found",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
       "ok": false
     },
     "gitwork_stats": {
-      "error": "HTTP Error 404: Not Found",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
       "ok": false
     },
     "issuehunt": {
@@ -73,7 +73,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-21T19:43:33.467Z",
+      "asOf": "2026-11-22T07:24:04.006Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -81,9 +81,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 246,
+        "agentsBidding30d": 250,
         "agentsEverPaid": 7,
-        "registeredAgents": 1770
+        "registeredAgents": 1778
       },
       "marketplace": {
         "completed": 15,
@@ -112,7 +112,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1770,
+      "totalAgents": 1778,
       "totalCompleted": 57,
       "totalJobs": 134,
       "totalVolumeUsdc": 46.3
@@ -156,7 +156,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.000518
+      "xtm_usd": 0.0005448
     },
     "taskbounty": {
       "active": 0,
