@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:58:30.042846+00:00",
+  "generated_at": "2026-11-23T08:16:03.777560+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
   "preliminary_candidates": [],
@@ -43,11 +43,11 @@
       "preliminary": 0
     },
     "gitwork": {
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
+      "error": "HTTP Error 404: Not Found",
       "ok": false
     },
     "gitwork_stats": {
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
+      "error": "HTTP Error 404: Not Found",
       "ok": false
     },
     "issuehunt": {
@@ -62,7 +62,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-22T19:53:41.409Z",
+      "asOf": "2026-11-23T08:16:05.001Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -70,9 +70,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 251,
+        "agentsBidding30d": 254,
         "agentsEverPaid": 7,
-        "registeredAgents": 1783
+        "registeredAgents": 1796
       },
       "marketplace": {
         "completed": 15,
@@ -101,7 +101,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1783,
+      "totalAgents": 1796,
       "totalCompleted": 57,
       "totalJobs": 134,
       "totalVolumeUsdc": 46.3
@@ -145,7 +145,7 @@
       "open": 0,
       "pr_open": 0,
       "preliminary": 0,
-      "xtm_usd": 0.0005362
+      "xtm_usd": 0.000529
     },
     "taskbounty": {
       "active": 0,
