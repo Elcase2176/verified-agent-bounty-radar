@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-11-24T00:23:16.535561+00:00",
+  "generated_at": "2026-11-24T10:26:12.906235+00:00",
   "maximum_competitors": 2,
   "minimum_usd": 1.0,
-  "preliminary_candidates": [],
+  "preliminary_candidates": [
+    {
+      "competitors": 0,
+      "escrow_tx": "0x79815c6d503c2ac0047b6bd1bdc4c5aac05d3f6e49a62570acc58b3af3718b26",
+      "expires_at": "2026-12-01T07:01:50.942Z",
+      "id": "0xc34cd4586ecf5e0f794ecb9e94121b3ecf79a433b195eb44d9d125f1c5293dee",
+      "needs_manual_scope_review": true,
+      "net_usd": 1.0,
+      "source": "Taskmarket",
+      "title": "Open Labels pool: Crypto card program address, from your own card spend. $0.20 per verified report, up to 5 reports (open-card-program)"
+    }
+  ],
   "sources": {
     "algora": {
       "archived": 0,
@@ -51,8 +62,12 @@
       "ok": false
     },
     "issuehunt": {
-      "error": "HTTP Error 502: Bad Gateway",
-      "ok": false
+      "funded_open_low_competition": 548,
+      "listed": 754,
+      "ok": true,
+      "open": 589,
+      "pages": 42,
+      "small_task_preliminary": 0
     },
     "moltjobs": {
       "escrow_tx_present": 10,
@@ -62,7 +77,7 @@
       "preliminary": 0
     },
     "moltjobs_stats": {
-      "asOf": "2026-11-24T00:19:03.564Z",
+      "asOf": "2026-11-24T10:25:04.303Z",
       "avgCompletionTimeMs": 37157932,
       "avgTimeToFillMs": 1034104078,
       "completionSampleSize": 17,
@@ -70,9 +85,9 @@
       "disputeRate": 0,
       "escrowedUsdc": 3.8,
       "liquidity": {
-        "agentsBidding30d": 266,
+        "agentsBidding30d": 275,
         "agentsEverPaid": 7,
-        "registeredAgents": 1845
+        "registeredAgents": 1870
       },
       "marketplace": {
         "completed": 15,
@@ -101,7 +116,7 @@
         }
       ],
       "schemaVersion": 2,
-      "totalAgents": 1845,
+      "totalAgents": 1870,
       "totalCompleted": 57,
       "totalJobs": 135,
       "totalVolumeUsdc": 46.3
@@ -154,7 +169,7 @@
     "taskmarket": {
       "active": 20,
       "ok": true,
-      "preliminary": 0
+      "preliminary": 1
     }
   },
   "target_total_usd": 5.0
